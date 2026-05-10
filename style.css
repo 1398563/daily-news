@@ -30,11 +30,10 @@
   --gradient-glow: radial-gradient(ellipse at 50% 0%, rgba(99, 102, 241, 0.15) 0%, transparent 70%);
 
   /* 分类颜色 */
-  --cat-finance: #f59e0b;
+  --cat-finance: #10b981;
   --cat-tech: #6366f1;
-  --cat-world: #3b82f6;
-  --cat-politics: #ef4444;
-  --cat-military: #10b981;
+  --cat-policy: #8b5cf6;
+  --cat-business: #f59e0b;
   --cat-life: #ec4899;
 
   /* 边框 */
@@ -382,12 +381,11 @@ body {
 }
 
 /* 分类标签颜色 */
-.category-tab[data-category="金融财经"].active { background: linear-gradient(135deg, #f59e0b, #d97706); }
-.category-tab[data-category="科技互联网"].active { background: linear-gradient(135deg, #6366f1, #4f46e5); }
-.category-tab[data-category="国际新闻"].active { background: linear-gradient(135deg, #3b82f6, #2563eb); }
-.category-tab[data-category="国内政治"].active { background: linear-gradient(135deg, #ef4444, #dc2626); }
-.category-tab[data-category="军事动态"].active { background: linear-gradient(135deg, #10b981, #059669); }
-.category-tab[data-category="民生热点"].active { background: linear-gradient(135deg, #ec4899, #db2777); }
+.category-tab[data-category="宏观政策风向"].active { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+.category-tab[data-category="产业科技趋势"].active { background: linear-gradient(135deg, #6366f1, #4f46e5); }
+.category-tab[data-category="商业创业机会"].active { background: linear-gradient(135deg, #f59e0b, #d97706); }
+.category-tab[data-category="投资理财参考"].active { background: linear-gradient(135deg, #10b981, #059669); }
+.category-tab[data-category="社会民生变化"].active { background: linear-gradient(135deg, #ec4899, #db2777); }
 
 /* ---- 新闻统计栏 ---- */
 .news-stats {
@@ -997,6 +995,25 @@ body {
 ::selection {
   background: rgba(99, 102, 241, 0.3);
   color: inherit;
+}
+
+/* ---- 三段式摘要样式（机会雷达） ---- */
+.summary-opportunity {
+  color: #10b981;
+  font-weight: 700;
+}
+
+.summary-risk {
+  color: #ef4444;
+  font-weight: 700;
+}
+
+[data-theme="light"] .summary-opportunity {
+  color: #059669;
+}
+
+[data-theme="light"] .summary-risk {
+  color: #dc2626;
 }
 
 /* ---- 减少动画偏好 ---- */
