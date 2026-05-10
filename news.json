@@ -1,117 +1,6 @@
 {
   "2026-05-10": {
-    "金融财经": [
-      {
-        "title": "一图读懂丨个税汇算这些“坑”别踩",
-        "time": "2026-05-09 10:17",
-        "source": "中国日报财经",
-        "summary": "2026-05-0910:17",
-        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99a2a310942cc49ab58f.html"
-      },
-      {
-        "title": "一季度我国服务进出口总额同比增长2.3%",
-        "time": "2026-05-09 10:15",
-        "source": "中国日报财经",
-        "summary": "2026-05-0910:15",
-        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab590.html"
-      },
-      {
-        "title": "涉及手机、电脑、电视等 人工智能终端智能化分级系列国标发布",
-        "time": "2026-05-09 10:15",
-        "source": "中国日报财经",
-        "summary": "2026-05-0910:15",
-        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab591.html"
-      },
-      {
-        "title": "个人养老金基金重塑投资者行为",
-        "time": "2026-05-09 10:17",
-        "source": "中国日报财经",
-        "summary": "2026-05-0910:17",
-        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab592.html"
-      },
-      {
-        "title": "一季度个税收入怎么看",
-        "time": "2026-05-09 10:17",
-        "source": "中国日报财经",
-        "summary": "2026-05-0910:17",
-        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99b0a310942cc49ab593.html"
-      }
-    ],
-    "科技互联网": [
-      {
-        "title": "Meta拥抱AI，员工遭监控与裁员双重压力",
-        "time": "2026-05-10 21:28",
-        "source": "网易科技",
-        "summary": "Meta拥抱AI，员工遭监控与裁员双重压力",
-        "url": "https://www.163.com/dy/article/KSJLHLKC0511B8LM.html"
-      },
-      {
-        "title": "科博会观察｜亮亮视野吴斐：会展场景是AR产品走",
-        "time": "2026-05-10 17:22",
-        "source": "网易科技",
-        "summary": "科博会观察｜亮亮视野吴斐：会展场景是AR产品走",
-        "url": "https://www.163.com/dy/article/KSJ7G7AD0519DFFO.html"
-      },
-      {
-        "title": "三星新专利探索AR沉浸新维度 虚拟界面可随用户",
-        "time": "2026-05-10 12:35",
-        "source": "网易科技",
-        "summary": "三星新专利探索AR沉浸新维度 虚拟界面可随用户",
-        "url": "https://www.163.com/dy/article/KSIN274C0514R9OJ.html"
-      },
-      {
-        "title": "东方航空技术申请基于AR的QEC机务安全监管方法",
-        "time": "2026-05-09 11:47",
-        "source": "网易科技",
-        "summary": "东方航空技术申请基于AR的QEC机务安全监管方法",
-        "url": "https://www.163.com/dy/article/KSG1TQ2C0519QIKK.html"
-      },
-      {
-        "title": "草堂智能考官“AI杜甫”登榜2025年元宇宙典型案",
-        "time": "2026-05-09 09:41",
-        "source": "网易科技",
-        "summary": "草堂智能考官“AI杜甫”登榜2025年元宇宙典型案",
-        "url": "https://www.163.com/dy/article/KSFQNV060530WJIN.html"
-      }
-    ],
-    "国际新闻": [
-      {
-        "title": "何立峰将赴韩国与美方举行经贸磋商 新一轮经贸磋商即将启动",
-        "time": "2026-05-10 00:00",
-        "source": "中华国际",
-        "summary": "何立峰将赴韩国与美方举行经贸磋商 新一轮经贸磋商即将启动",
-        "url": "https://news.china.com/socialgd/10000169/20260510/49484796.html"
-      },
-      {
-        "title": "大睡特睡反而可能损伤大脑 睡眠质量更重要",
-        "time": "2026-05-10 00:00",
-        "source": "中华国际",
-        "summary": "大睡特睡反而可能损伤大脑 睡眠质量更重要",
-        "url": "https://news.china.com/socialgd/10000169/20260510/49484797.html"
-      },
-      {
-        "title": "中信建投：聚焦两大景气主线 结构性慢牛行情展望",
-        "time": "2026-05-10 00:00",
-        "source": "中华国际",
-        "summary": "中信建投：聚焦两大景气主线 结构性慢牛行情展望",
-        "url": "https://news.china.com/socialgd/10000169/20260510/49484798.html"
-      },
-      {
-        "title": "上海能为青年人才创新创业提供什么 AI综合服务包助力",
-        "time": "2026-05-10 00:00",
-        "source": "中华国际",
-        "summary": "上海能为青年人才创新创业提供什么 AI综合服务包助力",
-        "url": "https://news.china.com/socialgd/10000169/20260510/49484799.html"
-      },
-      {
-        "title": "泰山队2:1战胜深圳新鹏城 客场胜利庆祝进球",
-        "time": "2026-05-10 00:00",
-        "source": "中华国际",
-        "summary": "泰山队2:1战胜深圳新鹏城 客场胜利庆祝进球",
-        "url": "https://news.china.com/socialgd/10000169/20260510/49484800.html"
-      }
-    ],
-    "国内政治": [
+    "宏观政策风向": [
       {
         "title": "我国中华白海豚种群数量总体保持稳定",
         "time": "2026-05-10 00:00",
@@ -148,44 +37,153 @@
         "url": "https://news.china.com/socialgd/10000169/20260510/49484234.html"
       }
     ],
-    "军事动态": [
+    "产业科技趋势": [
       {
-        "title": "鲁比奥：若俄乌谈判再无进展 美方不愿再浪费时间",
-        "time": "2026-05-10 09:00",
-        "source": "凤凰军事",
-        "summary": "鲁比奥：若俄乌谈判再无进展 美方不愿再浪费时间",
-        "url": "https://mil.ifeng.com/c/8syWDuq9kEm"
+        "title": "研究显示词元消耗 10 倍仅换 2 倍成果，CFO 开始严控 AI 开支",
+        "time": "2026-05-07 18:00",
+        "source": "IT家人工智能",
+        "summary": "Jellyfish最新研究揭示，消耗AI词元最多的团队，产出效率仅为普通开发者的两倍，但成本却高出10倍。企业CFO已开始严格管控AI开支，要求证明实际价值。报告强调，AI使用效率的重要性正超越单纯投入量，进入理性新阶段。#AI降本增效##企业数字化转型#",
+        "url": "https://www.ithome.com/0/947/364.htm"
       },
       {
-        "title": "朝鲜军队未来在乌克兰战场有何使命？专家：不会跨境直接参战",
-        "time": "2026-05-09 20:00",
-        "source": "凤凰军事",
-        "summary": "朝鲜军队未来在乌克兰战场有何使命？专家：不会跨境直接参战",
-        "url": "https://mil.ifeng.com/c/8szUoQ6U0NH"
+        "title": "腾讯开源 OpenSearch-VL，突破多模态搜索 AI 智能体训练瓶颈",
+        "time": "2026-05-07 15:00",
+        "source": "IT家人工智能",
+        "summary": "腾讯混元（TencentHunyuan）携手加州大学洛杉矶分校（UCLA）、香港中文大学等学府，联合发布OpenSearch-VL开源多模态训练方案，通过强化学习（RL）技术，打造具备前沿能力的深度搜索智能体。",
+        "url": "https://www.ithome.com/0/947/174.htm"
       },
       {
-        "title": "俄军重装备首次缺席阅兵，这是担心乌克兰袭击？专家解读",
-        "time": "2026-05-09 20:00",
-        "source": "凤凰军事",
-        "summary": "俄军重装备首次缺席阅兵，这是担心乌克兰袭击？专家解读",
-        "url": "https://mil.ifeng.com/c/8szXHje8JSV"
+        "title": "Meta拥抱AI，员工遭监控与裁员双重压力",
+        "time": "2026-05-10 21:28",
+        "source": "网易科技",
+        "summary": "Meta拥抱AI，员工遭监控与裁员双重压力",
+        "url": "https://www.163.com/dy/article/KSJLHLKC0511B8LM.html"
       },
       {
-        "title": "朝鲜第二次参加红场阅兵 曹卫东：俄朝军事同盟已经高度紧密",
-        "time": "2026-05-09 19:00",
-        "source": "凤凰军事",
-        "summary": "朝鲜第二次参加红场阅兵 曹卫东：俄朝军事同盟已经高度紧密",
-        "url": "https://mil.ifeng.com/c/8szTeLuNXmJ"
+        "title": "科博会观察｜亮亮视野吴斐：会展场景是AR产品走",
+        "time": "2026-05-10 17:22",
+        "source": "网易科技",
+        "summary": "科博会观察｜亮亮视野吴斐：会展场景是AR产品走",
+        "url": "https://www.163.com/dy/article/KSJ7G7AD0519DFFO.html"
       },
       {
-        "title": "五角大楼公布UFO相关文件：无法作出确切定论",
-        "time": "2026-05-09 15:00",
-        "source": "凤凰军事",
-        "summary": "五角大楼公布UFO相关文件：无法作出确切定论",
-        "url": "https://mil.ifeng.com/c/8syj1OdJYaj"
+        "title": "三星新专利探索AR沉浸新维度 虚拟界面可随用户",
+        "time": "2026-05-10 12:35",
+        "source": "网易科技",
+        "summary": "三星新专利探索AR沉浸新维度 虚拟界面可随用户",
+        "url": "https://www.163.com/dy/article/KSIN274C0514R9OJ.html"
+      },
+      {
+        "title": "东方航空技术申请基于AR的QEC机务安全监管方法",
+        "time": "2026-05-09 11:47",
+        "source": "网易科技",
+        "summary": "东方航空技术申请基于AR的QEC机务安全监管方法",
+        "url": "https://www.163.com/dy/article/KSG1TQ2C0519QIKK.html"
       }
     ],
-    "民生热点": [
+    "商业创业机会": [
+      {
+        "title": "我国中华白海豚种群数量总体保持稳定",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "我国中华白海豚种群数量总体保持稳定",
+        "url": "https://news.china.com/domestic/945/20260510/49484524.html"
+      },
+      {
+        "title": "一年来各地共办理婚姻登记“全国通办”超68万对",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "一年来各地共办理婚姻登记“全国通办”超68万对",
+        "url": "https://news.china.com/domestic/945/20260510/49484536.html"
+      },
+      {
+        "title": "Deepseek和阿里谈崩了？市场人士回应 双方未实际谈判",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "Deepseek和阿里谈崩了？市场人士回应 双方未实际谈判",
+        "url": "https://news.china.com/socialgd/10000169/20260510/49484230.html"
+      },
+      {
+        "title": "77年前牺牲的无名烈士长这样 英烈墙刻名归队",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "77年前牺牲的无名烈士长这样 英烈墙刻名归队",
+        "url": "https://news.china.com/socialgd/10000169/20260510/49484231.html"
+      },
+      {
+        "title": "国乒男团3-1战胜法国队晋级决赛 半决赛看点十足",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "国乒男团3-1战胜法国队晋级决赛 半决赛看点十足",
+        "url": "https://news.china.com/socialgd/10000169/20260510/49484234.html"
+      },
+      {
+        "title": "首艘、首位 本周我国多项硬核成果刷屏出圈",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "首艘、首位 本周我国多项硬核成果刷屏出圈",
+        "url": "https://news.china.com/domestic/945/20260510/49483946.html"
+      },
+      {
+        "title": "卫星见证了这颗“沙漠明珠”的“复活”",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "卫星见证了这颗“沙漠明珠”的“复活”",
+        "url": "https://news.china.com/domestic/945/20260510/49483960.html"
+      },
+      {
+        "title": "外贸这件事上，中国交出了超预期“韧性答卷”",
+        "time": "2026-05-10 00:00",
+        "source": "中华国内",
+        "summary": "外贸这件事上，中国交出了超预期“韧性答卷”",
+        "url": "https://news.china.com/domestic/945/20260510/49483972.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "境外长期资本入市再获新渠道",
+        "time": "2026-04-28 14:33",
+        "source": "中国日报财经",
+        "summary": "允许合格境外投资者参与国债期货交易，能够进一步吸引境外长期资本入市，既有助于优化国债期货市场的投资者结构，提升流动性和价格发现功能，也是中国资本市场对外开放程度提升的重要举措。2026-04-2814:33",
+        "url": "//caijing.chinadaily.com.cn/a/202604/28/WS69f054f4a310942cc49a9d00.html"
+      },
+      {
+        "title": "一图读懂丨个税汇算这些“坑”别踩",
+        "time": "2026-05-09 10:17",
+        "source": "中国日报财经",
+        "summary": "2026-05-0910:17",
+        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99a2a310942cc49ab58f.html"
+      },
+      {
+        "title": "一季度我国服务进出口总额同比增长2.3%",
+        "time": "2026-05-09 10:15",
+        "source": "中国日报财经",
+        "summary": "2026-05-0910:15",
+        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab590.html"
+      },
+      {
+        "title": "涉及手机、电脑、电视等 人工智能终端智能化分级系列国标发布",
+        "time": "2026-05-09 10:15",
+        "source": "中国日报财经",
+        "summary": "2026-05-0910:15",
+        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab591.html"
+      },
+      {
+        "title": "个人养老金基金重塑投资者行为",
+        "time": "2026-05-09 10:17",
+        "source": "中国日报财经",
+        "summary": "2026-05-0910:17",
+        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99afa310942cc49ab592.html"
+      },
+      {
+        "title": "一季度个税收入怎么看",
+        "time": "2026-05-09 10:17",
+        "source": "中国日报财经",
+        "summary": "2026-05-0910:17",
+        "url": "//caijing.chinadaily.com.cn/a/202605/09/WS69fe99b0a310942cc49ab593.html"
+      }
+    ],
+    "社会民生变化": [
       {
         "title": "中国海警局发布位马祖岛、乌丘屿附近海域执法巡查示意图",
         "time": "2025-12-29 16:15",
