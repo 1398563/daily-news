@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="每日AI新闻简报 - 每天自动聚合金融、科技、国际、政治、军事、民生等领域新闻，AI智能总结，支持语音播报">
+  <meta name="theme-color" content="#0a0e1a">
+  <title>每日AI新闻简报</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- 预连接字体服务 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+
+  <!-- 背景装饰 -->
+  <div class="bg-decoration"></div>
+
+  <!-- 导航栏 -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <div class="navbar-brand">
+        <div class="navbar-logo">AI</div>
+        <div>
+          <div class="navbar-title">每日AI新闻简报</div>
+          <div class="navbar-date" id="navDate"></div>
+        </div>
+      </div>
+      <div class="navbar-actions">
+        <button class="theme-toggle" id="themeToggle" title="切换主题" aria-label="切换深色/浅色模式">
+          <span class="icon-sun">☀️</span>
+          <span class="icon-moon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- 主内容区 -->
+  <main class="main-content">
+
+    <!-- 日期选择器 -->
+    <div class="date-selector" id="dateSelector">
+      <span class="date-label">📅</span>
+      <!-- 日期按钮由 JS 动态生成 -->
+    </div>
+
+    <!-- 分类标签栏 -->
+    <div class="category-tabs" id="categoryTabs">
+      <!-- 分类标签由 JS 动态生成 -->
+    </div>
+
+    <!-- 新闻统计栏 -->
+    <div class="news-stats" id="newsStats">
+      <span class="news-stats-text" id="statsText"></span>
+      <button class="batch-play-btn" id="batchPlayBtn" title="连续播报当前分类所有新闻">
+        <span id="batchPlayIcon">▶️</span>
+        <span id="batchPlayText">连续播报</span>
+      </button>
+    </div>
+
+    <!-- 新闻卡片列表 -->
+    <div class="news-grid" id="newsGrid">
+      <!-- 新闻卡片由 JS 动态生成 -->
+    </div>
+
+    <!-- 加载状态 -->
+    <div class="loading-container" id="loadingState" style="display:none;">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">正在加载新闻数据...</div>
+    </div>
+
+    <!-- 错误状态 -->
+    <div class="error-container" id="errorState" style="display:none;">
+      <div class="error-icon">⚠️</div>
+      <div class="error-title">加载失败</div>
+      <div class="error-message" id="errorMessage">无法获取新闻数据，请检查网络连接后重试。</div>
+      <button class="retry-btn" id="retryBtn">重新加载</button>
+    </div>
+
+    <!-- 空状态 -->
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <div class="empty-state-icon">📭</div>
+      <div class="empty-state-text">暂无该分类的新闻</div>
+    </div>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+      <p>每日AI新闻简报 · 数据由AI自动采集与总结 · 仅供参考</p>
+    </footer>
+  </main>
+
+  <!-- 语音播报控制栏 -->
+  <div class="voice-control-bar" id="voiceControlBar">
+    <div class="voice-control-info">
+      <div class="voice-control-title" id="voiceTitle">正在播报...</div>
+      <div class="voice-control-status" id="voiceStatus">准备中</div>
+    </div>
+    <div class="voice-control-buttons">
+      <button class="vc-btn" id="vcPrev" title="上一条">⏮️</button>
+      <button class="vc-btn vc-play" id="vcPlayPause" title="播放/暂停">▶️</button>
+      <button class="vc-btn" id="vcStop" title="停止">⏹️</button>
+      <button class="vc-btn" id="vcNext" title="下一条">⏭️</button>
+    </div>
+    <div class="speed-control">
+      <span class="speed-label" id="speedLabel">1.0x</span>
+      <input type="range" class="speed-slider" id="speedSlider" min="0.5" max="2.0" step="0.1" value="1.0">
+    </div>
+    <select class="voice-select" id="voiceSelect" aria-label="选择语音">
+      <option value="default">默认语音</option>
+    </select>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
