@@ -1,6 +1,6 @@
 /**
  * ============================================
- * 每日AI新闻简报 - 前端逻辑
+ * 个人机会雷达 - 前端逻辑
  * ============================================
  */
 
@@ -9,13 +9,12 @@
 
   // ---- 常量配置 ----
   const CATEGORIES = [
-    { name: '全部', icon: '📰' },
-    { name: '金融财经', icon: '💰' },
-    { name: '科技互联网', icon: '🔬' },
-    { name: '国际新闻', icon: '🌍' },
-    { name: '国内政治', icon: '🏛️' },
-    { name: '军事动态', icon: '🛡️' },
-    { name: '民生热点', icon: '🏠' }
+    { name: '全部', icon: '🎯' },
+    { name: '宏观政策风向', icon: '🏛️' },
+    { name: '产业科技趋势', icon: '🔬' },
+    { name: '商业创业机会', icon: '💼' },
+    { name: '投资理财参考', icon: '📈' },
+    { name: '社会民生变化', icon: '🏠' }
   ];
 
   const DATE_LABELS = {
@@ -394,12 +393,11 @@
 
     // 分类颜色标签
     const catColors = {
-      '金融财经': 'var(--cat-finance)',
-      '科技互联网': 'var(--cat-tech)',
-      '国际新闻': 'var(--cat-world)',
-      '国内政治': 'var(--cat-politics)',
-      '军事动态': 'var(--cat-military)',
-      '民生热点': 'var(--cat-life)'
+      '宏观政策风向': 'var(--cat-policy)',
+      '产业科技趋势': 'var(--cat-tech)',
+      '商业创业机会': 'var(--cat-business)',
+      '投资理财参考': 'var(--cat-finance)',
+      '社会民生变化': 'var(--cat-life)'
     };
     const catColor = catColors[news.category] || 'var(--text-accent)';
 
@@ -416,7 +414,7 @@
           <span class="news-card-source">${escapeHtml(news.source)}</span>
           <span class="news-card-time">🕐 ${escapeHtml(news.time)}</span>
         </div>
-        <p class="news-card-summary">${escapeHtml(news.summary)}</p>
+        <p class="news-card-summary">${renderSummary(news.summary)}</p>
         <div class="news-card-link-area">
           <a class="news-card-link" href="${escapeHtml(news.url)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">
             🔗 查看原文
@@ -686,6 +684,22 @@
   }
 
   // ---- 工具函数 ----
+  function renderSummary(summary) {
+    if (!summary) return '';
+    // 检测是否为三段式格式
+    if (summary.includes('【新闻核心】') || summary.includes('【个人机会点】') || summary.includes('【风险预警】')) {
+      let html = escapeHtml(summary);
+      // 【新闻核心】默认颜色
+      html = html.replace(/【新闻核心】/g, '<span class="summary-core">【新闻核心】</span>');
+      // 【个人机会点】绿色加粗
+      html = html.replace(/【个人机会点】/g, '<span class="summary-opportunity">【个人机会点】</span>');
+      // 【风险预警】红色加粗
+      html = html.replace(/【风险预警】/g, '<span class="summary-risk">【风险预警】</span>');
+      return html;
+    }
+    return escapeHtml(summary);
+  }
+
   function escapeHtml(str) {
     if (!str) return '';
     const div = document.createElement('div');
