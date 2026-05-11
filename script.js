@@ -113,12 +113,15 @@
   }
 
   // ---- 语音初始化 ----
+  let voicesLoaded = false;
+
   function initSpeechVoices() {
     // 加载可用语音列表
     function loadVoices() {
       const voices = speechSynthesis.getVoices();
       if (voices.length === 0) return;
 
+      voicesLoaded = true;
       state.voice.voices = voices;
       const select = DOM.voiceSelect;
       select.innerHTML = '';
@@ -159,6 +162,18 @@
     if (speechSynthesis.onvoiceschanged !== undefined) {
       speechSynthesis.onvoiceschanged = loadVoices;
     }
+
+    // 部分浏览器（尤其是移动端）语音加载较慢，设置超时重试
+    setTimeout(() => {
+      if (!voicesLoaded) {
+        loadVoices();
+      }
+    }, 1000);
+    setTimeout(() => {
+      if (!voicesLoaded) {
+        loadVoices();
+      }
+    }, 3000);
   }
 
   // ---- 事件绑定 ----
@@ -220,17 +235,29 @@
     try {
       // 添加时间戳防止缓存
       const timestamp = new Date().getTime();
-      const response = await fetch(`news.json?t=${timestamp}`);
+
+      // 添加超时控制（移动端网络可能较慢）
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 15000);
+
+      const response = await fetch(`news.json?t=${timestamp}`, {
+        signal: controller.signal,
+        cache: 'no-cache'
+      });
+
+      clearTimeout(timeoutId);
 
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
       }
 
-      state.newsData = await response.json();
+      const data = await response.json();
 
-      if (!state.newsData || typeof state.newsData !== 'object' || Object.keys(state.newsData).length === 0) {
+      if (!data || typeof data !== 'object' || Object.keys(data).length === 0) {
         throw new Error('新闻数据为空');
       }
+
+      state.newsData = data;
 
       // 提取可用日期并排序（降序）
       state.availableDates = Object.keys(state.newsData).sort((a, b) => b.localeCompare(a));
@@ -255,7 +282,11 @@
     } catch (error) {
       console.error('加载新闻数据失败:', error);
       showLoading(false);
-      showError(error.message || '未知错误');
+      let errorMsg = error.message || '未知错误';
+      if (error.name === 'AbortError') {
+        errorMsg = '网络请求超时，请检查网络后重试';
+      }
+      showError(errorMsg);
     }
   }
 
@@ -495,8 +526,6 @@
   function startSpeaking() {
     if (state.voice.playlist.length === 0) return;
 
-    speechSynthesis.cancel(); // 清除之前的播报
-
     state.voice.isPlaying = true;
     state.voice.isPaused = false;
 
@@ -514,15 +543,40 @@
       return;
     }
 
-    const text = `${news.title}。${news.summary}`;
+    // iOS Safari 修复：在 speak 之前先 cancel 并等待一帧
+    speechSynthesis.cancel();
+
+    const text = `${news.title}。${news.summary || ''}`;
+
+    // 检查文本是否为空
+    if (!text.trim()) {
+      console.warn('语音播报文本为空，跳过');
+      if (state.voice.isBatchMode && state.voice.currentIndex < state.voice.playlist.length - 1) {
+        state.voice.currentIndex++;
+        speakCurrentItem();
+      } else {
+        stopSpeech();
+      }
+      return;
+    }
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'zh-CN';
     utterance.rate = state.voice.rate;
     utterance.pitch = 1;
+    utterance.volume = 1;
 
+    // 设置语音
     if (state.voice.selectedVoice) {
       utterance.voice = state.voice.selectedVoice;
+    } else {
+      // 如果语音还没加载，尝试重新获取
+      const voices = speechSynthesis.getVoices();
+      const zhVoices = voices.filter(v => v.lang.startsWith('zh') || v.lang.startsWith('cmn'));
+      if (zhVoices.length > 0) {
+        state.voice.selectedVoice = zhVoices[0];
+        utterance.voice = zhVoices[0];
+      }
     }
 
     state.voice.utterance = utterance;
@@ -535,7 +589,8 @@
       if (state.voice.isBatchMode && state.voice.currentIndex < state.voice.playlist.length - 1) {
         // 连续播报下一条
         state.voice.currentIndex++;
-        speakCurrentItem();
+        // iOS Safari 修复：添加小延迟防止连续 speak 被吞
+        setTimeout(() => speakCurrentItem(), 100);
       } else {
         // 播报结束
         stopSpeech();
@@ -543,12 +598,25 @@
     };
 
     utterance.onerror = (e) => {
-      if (e.error === 'canceled') return; // 用户主动取消，不处理
+      if (e.error === 'canceled' || e.error === 'interrupted') return;
       console.error('语音播报错误:', e.error);
-      stopSpeech();
+      // 显示错误提示
+      DOM.voiceStatus.textContent = '播报出错: ' + e.error;
+      // 尝试继续下一条
+      if (state.voice.isBatchMode && state.voice.currentIndex < state.voice.playlist.length - 1) {
+        state.voice.currentIndex++;
+        setTimeout(() => speakCurrentItem(), 500);
+      } else {
+        stopSpeech();
+      }
     };
 
-    speechSynthesis.speak(utterance);
+    // iOS Safari 修复：使用 requestAnimationFrame 确保 cancel 生效后再 speak
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        speechSynthesis.speak(utterance);
+      });
+    });
   }
 
   function togglePlayPause() {
@@ -658,8 +726,8 @@
     DOM.loadingState.style.display = show ? 'flex' : 'none';
     if (show) {
       DOM.newsGrid.style.display = 'none';
-    } else {
-      DOM.newsGrid.style.display = '';
+      DOM.errorState.style.display = 'none';
+      DOM.emptyState.style.display = 'none';
     }
   }
 
@@ -667,6 +735,7 @@
     DOM.errorMessage.textContent = message || '无法获取新闻数据，请检查网络连接后重试。';
     DOM.errorState.style.display = 'flex';
     DOM.newsGrid.style.display = 'none';
+    DOM.loadingState.style.display = 'none';
   }
 
   function hideError() {
@@ -707,7 +776,26 @@
     return div.innerHTML;
   }
 
+  // ---- iOS Safari 语音 keep-alive ----
+  // iOS Safari 在页面加载约 30 秒后 speechSynthesis 会停止工作
+  // 通过定期触发一个空 utterance 来保持活跃
+  let iosKeepAlive = null;
+  function startIOSKeepAlive() {
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+    if (!isIOS) return;
+
+    iosKeepAlive = setInterval(() => {
+      if (state.voice.isPlaying) return; // 正在播报不需要
+      const u = new SpeechSynthesisUtterance('');
+      u.volume = 0;
+      speechSynthesis.speak(u);
+    }, 20000);
+  }
+
   // ---- 启动 ----
-  document.addEventListener('DOMContentLoaded', init);
+  document.addEventListener('DOMContentLoaded', () => {
+    init();
+    startIOSKeepAlive();
+  });
 
 })();
