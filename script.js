@@ -199,6 +199,46 @@
   // ---- 语音初始化 ----
   var voicesLoaded = false;
 
+  // 语音名称映射表：技术名称 → 通俗易懂的中文名称
+  var VOICE_NAME_MAP = {
+    // 微软在线语音（自然）
+    'xiaoxiao': '晓晓（女声·自然）',
+    'yunxi': '云希（男声·自然）',
+    'yunjian': '云健（男声·沉稳）',
+    'yunxia': '云夏（女声·温柔）',
+    'yunyang': '云扬（男声·专业）',
+    'xiaoyi': '晓伊（女声·活泼）',
+    'xiaobei': '晓北（女声·东北）',
+    'xiaoni': '晓妮（女声·陕西）',
+    // 台湾语音
+    'hsiaochen': '晓臻（女声·台湾）',
+    'hsiaoyu': '晓雨（女声·台湾）',
+    'yunjhe': '云哲（男声·台湾）',
+    // 香港语音
+    'hiugaai': '晓佳（女声·粤语）',
+    'hiumaan': '晓曼（女声·粤语）',
+    'wanlung': '云龙（男声·粤语）',
+    // 本地语音
+    'huihui': '慧慧（女声·本地）',
+    'kangkang': '康康（男声·本地）',
+    'yaoyao': '瑶瑶（女声·本地）'
+  };
+
+  // 获取友好的语音名称
+  function getFriendlyVoiceName(voice) {
+    var name = voice.name.toLowerCase();
+    // 尝试匹配映射表
+    for (var key in VOICE_NAME_MAP) {
+      if (name.indexOf(key) !== -1) {
+        return VOICE_NAME_MAP[key];
+      }
+    }
+    // 未匹配时，简化显示
+    var shortName = voice.name.replace(/Microsoft\s+/i, '').replace(/\s*Online\s*/i, '').replace(/\s*\(Natural\)/i, '').replace(/\s*\(Natural\)\s*/i, '');
+    var typeTag = voice.localService ? '（本地）' : '（在线）';
+    return shortName + typeTag;
+  }
+
   function initSpeechVoices() {
     function loadVoices() {
       var voices = [];
@@ -222,8 +262,8 @@
           if (!a.localService && b.localService) return -1;
           if (a.localService && !b.localService) return 1;
           // 女声优先
-          var aFemale = /female|女|xiaoxiao|xiaoyan|zhiyu/i.test(a.name);
-          var bFemale = /female|女|xiaoxiao|xiaoyan|zhiyu/i.test(b.name);
+          var aFemale = /female|女|xiaoxiao|xiaoyan|zhiyu|xiaoyi|yunxia|xiaobei|xiaoni|hsiaochen|hsiaoyu|hiugaai|hiumaan|huihui|yaoyao/i.test(a.name);
+          var bFemale = /female|女|xiaoxiao|xiaoyan|zhiyu|xiaoyi|yunxia|xiaobei|xiaoni|hsiaochen|hsiaoyu|hiugaai|hiumaan|huihui|yaoyao/i.test(b.name);
           if (aFemale && !bFemale) return -1;
           if (!aFemale && bFemale) return 1;
           return 0;
@@ -232,8 +272,7 @@
         zhVoices.forEach(function (voice, i) {
           var opt = document.createElement('option');
           opt.value = i;
-          var tag = voice.localService ? ' [本地]' : ' [在线]';
-          opt.textContent = voice.name + tag + ' (' + voice.lang + ')';
+          opt.textContent = getFriendlyVoiceName(voice);
           select.appendChild(opt);
         });
 
@@ -244,7 +283,7 @@
         voices.forEach(function (voice, i) {
           var opt = document.createElement('option');
           opt.value = i;
-          opt.textContent = voice.name + ' (' + voice.lang + ')';
+          opt.textContent = getFriendlyVoiceName(voice);
           select.appendChild(opt);
         });
         state.voice.selectedVoice = voices[0];
@@ -894,13 +933,25 @@
   // ---- 工具函数 ----
   function renderSummary(summary) {
     if (!summary) return '';
+    var html = escapeHtml(summary);
+    
+    // 新格式：【核心内容】和【深度思考】
+    if (summary.indexOf('【核心内容】') !== -1 || summary.indexOf('【深度思考】') !== -1) {
+      html = html.replace(/【核心内容】/g, '<span class="summary-core">【核心内容】</span>');
+      html = html.replace(/【深度思考】/g, '<span class="summary-think">【深度思考】</span>');
+      // 将换行符转换为段落分隔
+      html = html.replace(/\n/g, '<br>');
+      return html;
+    }
+    
+    // 旧格式兼容：【新闻核心】【个人机会点】【风险预警】
     if (summary.indexOf('【新闻核心】') !== -1 || summary.indexOf('【个人机会点】') !== -1 || summary.indexOf('【风险预警】') !== -1) {
-      var html = escapeHtml(summary);
       html = html.replace(/【新闻核心】/g, '<span class="summary-core">【新闻核心】</span>');
       html = html.replace(/【个人机会点】/g, '<span class="summary-opportunity">【个人机会点】</span>');
       html = html.replace(/【风险预警】/g, '<span class="summary-risk">【风险预警】</span>');
       return html;
     }
+    
     return escapeHtml(summary);
   }
 
