@@ -998,6 +998,11 @@ body {
 }
 
 /* ---- 三段式摘要样式（机会雷达） ---- */
+.summary-core {
+  color: #818cf8;
+  font-weight: 700;
+}
+
 .summary-opportunity {
   color: #10b981;
   font-weight: 700;
@@ -1008,12 +1013,25 @@ body {
   font-weight: 700;
 }
 
+.summary-think {
+  color: #f59e0b;
+  font-weight: 700;
+}
+
+[data-theme="light"] .summary-core {
+  color: #6366f1;
+}
+
 [data-theme="light"] .summary-opportunity {
   color: #059669;
 }
 
 [data-theme="light"] .summary-risk {
   color: #dc2626;
+}
+
+[data-theme="light"] .summary-think {
+  color: #d97706;
 }
 
 /* ---- 减少动画偏好 ---- */
