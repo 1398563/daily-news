@@ -132,20 +132,32 @@
       );
 
       if (zhVoices.length > 0) {
+        // 按优先级排序：本地语音优先，然后是女声
+        zhVoices.sort((a, b) => {
+          // 本地语音优先
+          if (a.localService && !b.localService) return -1;
+          if (!a.localService && b.localService) return 1;
+          // 女声优先
+          const aIsFemale = /female|女|xiaoxiao|xiaoyan|zhiyu/i.test(a.name);
+          const bIsFemale = /female|女|xiaoxiao|xiaoyan|zhiyu/i.test(b.name);
+          if (aIsFemale && !bIsFemale) return -1;
+          if (!aIsFemale && bIsFemale) return 1;
+          return 0;
+        });
+
         zhVoices.forEach((voice, i) => {
           const opt = document.createElement('option');
           opt.value = i;
-          opt.textContent = `${voice.name} (${voice.lang})`;
+          const localTag = voice.localService ? ' [本地]' : ' [在线]';
+          opt.textContent = `${voice.name}${localTag} (${voice.lang})`;
           opt.dataset.voiceName = voice.name;
           opt.dataset.voiceLang = voice.lang;
           select.appendChild(opt);
         });
-        // 默认选择第一个中文女声
-        const defaultFemale = zhVoices.findIndex(v =>
-          /female|女|zhiyu|xiaoxiao|xiaoyan/i.test(v.name)
-        );
-        state.voice.selectedVoice = zhVoices[defaultFemale >= 0 ? defaultFemale : 0];
-        select.value = defaultFemale >= 0 ? defaultFemale : 0;
+
+        // 默认选择第一个（已排序，优先本地语音）
+        state.voice.selectedVoice = zhVoices[0];
+        select.value = 0;
       } else {
         // 没有中文语音，显示所有语音
         voices.forEach((voice, i) => {
@@ -235,17 +247,26 @@
     try {
       // 添加时间戳防止缓存
       const timestamp = new Date().getTime();
+      const url = `news.json?t=${timestamp}`;
 
-      // 添加超时控制（移动端网络可能较慢）
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 15000);
-
-      const response = await fetch(`news.json?t=${timestamp}`, {
-        signal: controller.signal,
-        cache: 'no-cache'
-      });
-
-      clearTimeout(timeoutId);
+      // 使用简单的 fetch，避免移动端兼容性问题
+      let response;
+      try {
+        // 尝试使用 AbortController（如果支持）
+        if (typeof AbortController !== 'undefined') {
+          const controller = new AbortController();
+          const timeoutId = setTimeout(() => controller.abort(), 15000);
+          response = await fetch(url, { signal: controller.signal });
+          clearTimeout(timeoutId);
+        } else {
+          // 不支持 AbortController，直接 fetch
+          response = await fetch(url);
+        }
+      } catch (fetchError) {
+        // 如果 fetch 完全失败，尝试不带任何选项的简单请求
+        console.warn('首次 fetch 失败，尝试简单请求:', fetchError);
+        response = await fetch(url);
+      }
 
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
@@ -261,6 +282,10 @@
 
       // 提取可用日期并排序（降序）
       state.availableDates = Object.keys(state.newsData).sort((a, b) => b.localeCompare(a));
+
+      if (state.availableDates.length === 0) {
+        throw new Error('没有可用的新闻日期');
+      }
 
       // 默认选中最新日期
       state.selectedDate = state.availableDates[0];
@@ -566,18 +591,40 @@
     utterance.pitch = 1;
     utterance.volume = 1;
 
-    // 设置语音
+    // 获取可用语音列表
+    const voices = speechSynthesis.getVoices();
+    const zhVoices = voices.filter(v => v.lang.startsWith('zh') || v.lang.startsWith('cmn'));
+
+    // 设置语音 - 带回退机制
+    let voiceToUse = null;
+
     if (state.voice.selectedVoice) {
-      utterance.voice = state.voice.selectedVoice;
-    } else {
-      // 如果语音还没加载，尝试重新获取
-      const voices = speechSynthesis.getVoices();
-      const zhVoices = voices.filter(v => v.lang.startsWith('zh') || v.lang.startsWith('cmn'));
-      if (zhVoices.length > 0) {
-        state.voice.selectedVoice = zhVoices[0];
-        utterance.voice = zhVoices[0];
+      // 检查选中的语音是否仍然可用
+      const isVoiceAvailable = voices.some(v => v.name === state.voice.selectedVoice.name);
+      if (isVoiceAvailable) {
+        voiceToUse = state.voice.selectedVoice;
+      } else {
+        console.warn('选中的语音不可用，尝试回退');
       }
     }
+
+    // 如果没有可用语音，尝试找一个中文语音
+    if (!voiceToUse && zhVoices.length > 0) {
+      // 优先选择本地语音（更稳定）
+      const localVoice = zhVoices.find(v => v.localService);
+      if (localVoice) {
+        voiceToUse = localVoice;
+      } else {
+        voiceToUse = zhVoices[0];
+      }
+      state.voice.selectedVoice = voiceToUse;
+      console.log('使用回退语音:', voiceToUse.name);
+    }
+
+    if (voiceToUse) {
+      utterance.voice = voiceToUse;
+    }
+    // 如果完全没有可用语音，让浏览器使用默认语音
 
     state.voice.utterance = utterance;
 
@@ -600,6 +647,38 @@
     utterance.onerror = (e) => {
       if (e.error === 'canceled' || e.error === 'interrupted') return;
       console.error('语音播报错误:', e.error);
+
+      // synthesis-failed 特殊处理：尝试使用默认语音重试
+      if (e.error === 'synthesis-failed' && utterance.voice) {
+        console.log('尝试使用默认语音重试...');
+        DOM.voiceStatus.textContent = '切换语音重试中...';
+
+        // 清除语音设置，使用浏览器默认
+        const retryUtterance = new SpeechSynthesisUtterance(text);
+        retryUtterance.lang = 'zh-CN';
+        retryUtterance.rate = state.voice.rate;
+        retryUtterance.pitch = 1;
+        retryUtterance.volume = 1;
+        // 不设置 voice，让浏览器使用默认
+
+        retryUtterance.onend = utterance.onend;
+        retryUtterance.onerror = (e2) => {
+          if (e2.error === 'canceled' || e2.error === 'interrupted') return;
+          console.error('重试也失败:', e2.error);
+          DOM.voiceStatus.textContent = '播报失败: ' + e2.error;
+          // 继续下一条
+          if (state.voice.isBatchMode && state.voice.currentIndex < state.voice.playlist.length - 1) {
+            state.voice.currentIndex++;
+            setTimeout(() => speakCurrentItem(), 500);
+          } else {
+            setTimeout(() => stopSpeech(), 1000);
+          }
+        };
+
+        speechSynthesis.speak(retryUtterance);
+        return;
+      }
+
       // 显示错误提示
       DOM.voiceStatus.textContent = '播报出错: ' + e.error;
       // 尝试继续下一条
@@ -614,7 +693,13 @@
     // iOS Safari 修复：使用 requestAnimationFrame 确保 cancel 生效后再 speak
     requestAnimationFrame(() => {
       requestAnimationFrame(() => {
-        speechSynthesis.speak(utterance);
+        try {
+          speechSynthesis.speak(utterance);
+        } catch (speakError) {
+          console.error('speechSynthesis.speak 异常:', speakError);
+          DOM.voiceStatus.textContent = '语音功能不可用';
+          stopSpeech();
+        }
       });
     });
   }
