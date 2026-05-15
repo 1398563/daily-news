@@ -22,8 +22,17 @@ logger = logging.getLogger(__name__)
 
 
 def load_config():
+    """加载配置，支持环境变量覆盖"""
     with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
-        return json.load(f)
+        config = json.load(f)
+    
+    # 环境变量覆盖（用于 GitHub Actions）
+    if os.environ.get('SILICONFLOW_KEY'):
+        config.setdefault('ai', {})['siliconflow_key'] = os.environ['SILICONFLOW_KEY']
+    if os.environ.get('TIANAPI_KEY'):
+        config.setdefault('tianapi', {})['api_key'] = os.environ['TIANAPI_KEY']
+    
+    return config
 
 
 def load_news_json():
