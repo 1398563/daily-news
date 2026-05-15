@@ -1,0 +1,57 @@
+{
+  "github": {
+    "token": "",
+    "repo_owner": "1398563",
+    "repo_name": "daily-news",
+    "branch": "main"
+  },
+  "feishu": {
+    "webhook_url": "",
+    "sign_secret": ""
+  },
+  "tianapi": {
+    "api_key": "",
+    "base_url": "https://apis.tianapi.com"
+  },
+  "ai": {
+    "provider": "siliconflow",
+    "siliconflow_key": "",
+    "openai_key": "",
+    "openai_url": "https://api.openai.com/v1/chat/completions",
+    "openai_model": "gpt-3.5-turbo"
+  },
+  "news": {
+    "categories": {
+      "宏观政策风向": {
+        "num": 5,
+        "keywords": ["国务院常务会议", "央行降准降息", "税收优惠", "创业补贴", "社保新规", "监管政策"],
+        "exclude": ["娱乐", "体育", "明星", "八卦", "电视剧", "电影"]
+      },
+      "产业科技趋势": {
+        "num": 6,
+        "keywords": ["AI应用", "大模型", "电商新趋势", "跨境电商", "新能源", "智能制造", "数字化转型", "字节跳动", "阿里巴巴", "腾讯"],
+        "exclude": ["游戏", "手机评测", "数码开箱", "明星代言"]
+      },
+      "商业创业机会": {
+        "num": 8,
+        "keywords": ["抖音小店规则", "电商创业", "小成本创业", "商业模式", "新消费", "副业赚钱", "个体户政策", "供应链", "直播带货", "私域流量"],
+        "exclude": ["加盟骗局", "传销", "虚假宣传"]
+      },
+      "投资理财参考": {
+        "num": 6,
+        "keywords": ["A股行情", "基金定投", "黄金价格", "上市公司财报", "银行理财", "国债", "人民币汇率", "美联储加息", "房地产政策"],
+        "exclude": ["虚拟货币", "比特币", "炒股推荐", "内幕消息"]
+      },
+      "社会民生变化": {
+        "num": 5,
+        "keywords": ["人口老龄化", "消费趋势", "银发经济", "年轻人消费", "教育改革", "医疗政策", "就业形势", "房价走势"],
+        "exclude": ["刑事案件", "交通事故", "天灾人祸", "明星八卦"]
+      }
+    },
+    "keep_days": 3
+  },
+  "schedule": {
+    "fetch_time": "08:00",
+    "timezone": "Asia/Shanghai"
+  }
+}
