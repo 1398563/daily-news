@@ -3,7 +3,8 @@ name: Daily News Update
 on:
   schedule:
     # 每天北京时间 08:00 (UTC 00:00)
-    - cron: '0 0 * * *'
+    # GitHub Actions cron 有延迟，提前到 UTC 23:00(北京时间07:00)以补偿延迟
+    - cron: '0 23 * * *'
   workflow_dispatch:  # 允许手动触发
 
 permissions:
