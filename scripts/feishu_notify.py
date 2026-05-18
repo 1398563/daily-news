@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-个人机会雷达 - 飞书推送模块
+每日情报站 - 飞书推送模块
 """
 
 import json
@@ -79,12 +79,12 @@ def send_text_message(config, text):
 
 
 def send_news_card(config, site_url, news_stats, news_data=None, error_msg=None):
-    """发送个人机会雷达通知"""
+    """发送每日情报站通知"""
     today = datetime.now().strftime('%Y年%m月%d日')
     now_time = datetime.now().strftime('%H:%M')
 
     if error_msg:
-        text = f"【个人机会雷达】更新失败\n日期：{today}\n错误信息：{error_msg}\n请及时检查处理。"
+        text = f"【每日情报站】更新失败\n日期：{today}\n错误信息：{error_msg}\n请及时检查处理。"
         return send_text_message(config, text)
 
     categories = news_stats.get('categories', 0)
@@ -120,7 +120,7 @@ def send_news_card(config, site_url, news_stats, news_data=None, error_msg=None)
 
     content = {
         "zh_cn": {
-            "title": f"【个人机会雷达】{today}",
+            "title": f"【每日情报站】{today}",
             "content": [
                 [
                     {"tag": "text", "text": f"更新状态：✅ 已完成\n"}
@@ -148,7 +148,7 @@ def send_news_card(config, site_url, news_stats, news_data=None, error_msg=None)
         ])
 
     content["zh_cn"]["content"].append([
-        {"tag": "a", "text": "🔍 点击查看全部机会雷达", "href": site_url}
+        {"tag": "a", "text": "🔍 点击查看每日情报站", "href": site_url}
     ])
     content["zh_cn"]["content"].append([
         {"tag": "text", "text": f"由AI自动采集与总结 · {now_time} 更新"}
@@ -158,7 +158,7 @@ def send_news_card(config, site_url, news_stats, news_data=None, error_msg=None)
 
 
 def send_test_message(config):
-    return send_text_message(config, "✅ 飞书机器人连接测试成功！个人机会雷达已就绪。")
+    return send_text_message(config, "✅ 飞书机器人连接测试成功！每日情报站已就绪。")
 
 
 if __name__ == '__main__':
