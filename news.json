@@ -1,4 +1,226 @@
 {
+  "2026-06-16": {
+    "宏观政策风向": [
+      {
+        "title": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550078.html"
+      },
+      {
+        "title": "PCB概念涨幅居前 概念股大幅飙涨",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "PCB概念涨幅居前 概念股大幅飙涨",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550081.html"
+      },
+      {
+        "title": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550082.html"
+      },
+      {
+        "title": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550083.html"
+      },
+      {
+        "title": "5月份电商物流总业务量同比增长超20%",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "5月份电商物流总业务量同比增长超20%",
+        "url": "https://news.china.com/domestic/945/20260616/49549972.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Qwen前负责人林俊旸创业首轮估值20亿美元，腾讯",
+        "time": "2026-06-16 08:44",
+        "source": "网易IT",
+        "summary": "6月16日消息，TheInformation报道，腾讯已参与阿里Qwen前核心负责人林俊旸新AI实验室的首轮融资。知情人士称，腾讯在这一轮投入2000万美元；本轮总融资规模为数亿美元，投后估值约20亿美元。本轮由高榕资本和红杉中国领投，知...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KVHIJCPC00097U7T.html"
+      },
+      {
+        "title": "企业喊贵，OpenAI准备降价打价格战，与Anthropi",
+        "time": "2026-06-11 12:20",
+        "source": "网易IT",
+        "summary": "6月11日消息，OpenAI正在考虑大幅下调按token计费的AI服务价格，为可能到来的企业客户价格战做准备。《华尔街日报》援引知情人士报道称，降价讨论针对的是大模型API的token价格，知情人士未披露具体降幅。路透社随后转述该报道，并称...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KV52TM5I00097U7T.html"
+      },
+      {
+        "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
+        "time": "2026-06-08 07:57",
+        "source": "网易IT",
+        "summary": "6月8日消息，OpenAI计划把编程工具Codex并入ChatGPT。这不只是一次产品整合，也反映出大模型公司的竞争已经从谁的模型更强扩展到谁能让客户更难离开。《商业内幕》（BusinessInsider）昨日援引Pydantic...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
+      },
+      {
+        "title": "美国AI立法草案曝光：年入5亿美元以上的大模型",
+        "time": "2026-06-05 08:02",
+        "source": "网易IT",
+        "summary": "6月5日消息，美国众议院两党议员周四公布一份269页AI立法讨论稿，试图把前沿AI模型安全审计、员工举报保护和AI就业影响研究纳入联邦框架；争议最大的一条，是三年内限制各州自行监管AI模型开发。这份《伟大美国人工智能法案（GreatAme...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KUL5QCIE00097U7T.html"
+      },
+      {
+        "title": "Anthropic 高管与美政府展开谈判，寻求解除 AI 模型 Fable 5 出口禁令",
+        "time": "2026-06-16 09:00",
+        "source": "IT家人工智能",
+        "summary": "Anthropic公司高层与特朗普政府官员就Fable5模型出口禁令展开面对面谈判。公司详细介绍了其网络安全防护机制，希望推动限制解除。此次禁令是白宫首次强制企业下架面向公众开放的大模型。#AI监管##Anthropic#",
+        "url": "https://www.ithome.com/0/964/628.htm"
+      },
+      {
+        "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
+        "time": "2026-06-15 17:00",
+        "source": "IT家人工智能",
+        "summary": "官方表示，元宝在解答用户的提问时，会将ima知识库的相关内容作为信源之一，点击内容即可跳转查看对应知识库完整信息。",
+        "url": "https://www.ithome.com/0/964/468.htm"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550078.html"
+      },
+      {
+        "title": "PCB概念涨幅居前 概念股大幅飙涨",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "PCB概念涨幅居前 概念股大幅飙涨",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550081.html"
+      },
+      {
+        "title": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550082.html"
+      },
+      {
+        "title": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550083.html"
+      },
+      {
+        "title": "5月份电商物流总业务量同比增长超20%",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "5月份电商物流总业务量同比增长超20%",
+        "url": "https://news.china.com/domestic/945/20260616/49549972.html"
+      },
+      {
+        "title": "西宁至成都铁路四川段“四电”工程启动",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "西宁至成都铁路四川段“四电”工程启动",
+        "url": "https://news.china.com/domestic/945/20260616/49550004.html"
+      },
+      {
+        "title": "“机器人男模”“赛博女友”来了",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "“机器人男模”“赛博女友”来了",
+        "url": "https://news.china.com/domestic/945/20260616/49550096.html"
+      },
+      {
+        "title": "中国不需要、也不可能复制SpaceX",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "中国不需要、也不可能复制SpaceX",
+        "url": "https://news.china.com/domestic/945/20260616/49550090.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "巨型IPO冲击全球市场 科技股估值面临重新校准",
+        "time": "2026-06-15 09:49",
+        "source": "中国日报财经",
+        "summary": "2026-06-1509:49",
+        "url": "//caijing.chinadaily.com.cn/a/202606/15/WS6a2f5aaba310d709c2fb7f2c.html"
+      },
+      {
+        "title": "算力网建设火热 光通信等多板块景气度抬升",
+        "time": "2026-06-15 09:51",
+        "source": "中国日报财经",
+        "summary": "2026-06-1509:51",
+        "url": "//caijing.chinadaily.com.cn/a/202606/15/WS6a2f5ab7a310d709c2fb7f2d.html"
+      },
+      {
+        "title": "多项公募基金新规同日公布 严控风格漂移与“公私兼任”行为",
+        "time": "2026-06-15 09:52",
+        "source": "中国日报财经",
+        "summary": "2026-06-1509:52",
+        "url": "//caijing.chinadaily.com.cn/a/202606/15/WS6a2f5b06a310d709c2fb7f30.html"
+      },
+      {
+        "title": "路更近、业更兴、情更浓——福建探索两岸融合发展新路观察",
+        "time": "2026-06-15 09:54",
+        "source": "中国日报财经",
+        "summary": "《中共中央　国务院关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》公布近3年来，福建探索海峡两岸融合发展，已发布5批74条政策措施，形成首批阶段性、标志性成果，示范区建设不断走深走实。2026-06-1509:54",
+        "url": "//caijing.chinadaily.com.cn/a/202606/15/WS6a2f5bd4a310d709c2fb7f32.html"
+      },
+      {
+        "title": "鸡蛋价格为何逆势上涨？如何看待这次价格波动？",
+        "time": "2026-06-11 15:05",
+        "source": "中国日报财经",
+        "summary": "5月以来，鸡蛋价格已连续5周上涨。截至6月9日14时，全国农产品批发市场每公斤鸡蛋平均价格为10.85元，比前一天上升2.3%。鸡蛋价格为何出现“淡季不淡”的逆势上涨？2026-06-1115:05",
+        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5e55a310942cc49b13b5.html"
+      },
+      {
+        "title": "美国政府5月退还近220亿美元关税",
+        "time": "2026-06-11 15:07",
+        "source": "中国日报财经",
+        "summary": "美国财政部10日发布的月度财政数据显示，美国联邦政府5月关税退款金额接近220亿美元，当月美国海关关税净收入为负数。2026-06-1115:07",
+        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5ee2a310942cc49b13b6.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "中国海警局发布位马祖岛、乌丘屿附近海域执法巡查示意图",
+        "time": "2025-12-29 16:15",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/33416de375.shtml"
+      },
+      {
+        "title": "东部战区组织轰炸机编队赴台岛以东开展远海战备巡航",
+        "time": "2025-12-29 16:24",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/1625d99390.shtml"
+      },
+      {
+        "title": "深圳新鹏城官宣：张煜东等五名球员合同期满离队",
+        "time": "2025-12-29 16:41",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/2f69d1d748.shtml"
+      },
+      {
+        "title": "外交部：中方对巴拿马有关地方政府强拆华人抵巴纪念碑行径严重不满",
+        "time": "2025-12-29 16:25",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/d6348d258d.shtml"
+      },
+      {
+        "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
+        "time": "2025-12-29 16:34",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/298c26fbf1.shtml"
+      }
+    ]
+  },
   "2026-06-15": {
     "宏观政策风向": [
       {
@@ -359,228 +581,6 @@
         "source": "中华国内",
         "summary": "河北衡水湖：鸟育雏忙 莲绽娇颜",
         "url": "https://news.china.com/domestic/945/20260613/49545620.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "鸡蛋价格为何逆势上涨？如何看待这次价格波动？",
-        "time": "2026-06-11 15:05",
-        "source": "中国日报财经",
-        "summary": "5月以来，鸡蛋价格已连续5周上涨。截至6月9日14时，全国农产品批发市场每公斤鸡蛋平均价格为10.85元，比前一天上升2.3%。鸡蛋价格为何出现“淡季不淡”的逆势上涨？2026-06-1115:05",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5e55a310942cc49b13b5.html"
-      },
-      {
-        "title": "美国政府5月退还近220亿美元关税",
-        "time": "2026-06-11 15:07",
-        "source": "中国日报财经",
-        "summary": "美国财政部10日发布的月度财政数据显示，美国联邦政府5月关税退款金额接近220亿美元，当月美国海关关税净收入为负数。2026-06-1115:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5ee2a310942cc49b13b6.html"
-      },
-      {
-        "title": "“世界杯经济”开场哨将响 A股公司多赛道掘金",
-        "time": "2026-06-11 15:10",
-        "source": "中国日报财经",
-        "summary": "本届世界杯不仅点燃了全球球迷的观赛热情，更成为A股上市公司多赛道掘金的重要舞台。2026-06-1115:10",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5f74a310942cc49b13b8.html"
-      },
-      {
-        "title": "中国智造出海进入新阶段",
-        "time": "2026-06-11 15:12",
-        "source": "中国日报财经",
-        "summary": "从卖产品到卖方案，从性价比到可靠性，从扎下根到长出茎叶、结出果实，中国智造出海正进入全新阶段。2026-06-1115:12",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a600fa310942cc49b13bd.html"
-      },
-      {
-        "title": "《住房公积金管理条例》迎重大修订——让公积金更普惠、更管用",
-        "time": "2026-06-11 10:51",
-        "source": "中国日报财经",
-        "summary": "住房城乡建设部就《住房公积金管理条例（修订征求意见稿）》公开征求意见，意见反馈截止日期为2026年7月5日。2026-06-1110:51",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a22c1a310942cc49b1241.html"
-      },
-      {
-        "title": "国际油价大涨 金价跌破每盎司4100美元关口",
-        "time": "2026-06-11 11:07",
-        "source": "中国日报财经",
-        "summary": "2026-06-1111:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a26a6a310942cc49b125f.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "中国海警局发布位马祖岛、乌丘屿附近海域执法巡查示意图",
-        "time": "2025-12-29 16:15",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/33416de375.shtml"
-      },
-      {
-        "title": "东部战区组织轰炸机编队赴台岛以东开展远海战备巡航",
-        "time": "2025-12-29 16:24",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/1625d99390.shtml"
-      },
-      {
-        "title": "深圳新鹏城官宣：张煜东等五名球员合同期满离队",
-        "time": "2025-12-29 16:41",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/2f69d1d748.shtml"
-      },
-      {
-        "title": "外交部：中方对巴拿马有关地方政府强拆华人抵巴纪念碑行径严重不满",
-        "time": "2025-12-29 16:25",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/d6348d258d.shtml"
-      },
-      {
-        "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
-        "time": "2025-12-29 16:34",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/298c26fbf1.shtml"
-      }
-    ]
-  },
-  "2026-06-13": {
-    "宏观政策风向": [
-      {
-        "title": "未来五年，投资五万亿元升级这张网",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "未来五年，投资五万亿元升级这张网",
-        "url": "https://news.china.com/domestic/945/20260613/49545545.html"
-      },
-      {
-        "title": "“新三样”领跑全球 中国外贸向新而行",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "“新三样”领跑全球 中国外贸向新而行",
-        "url": "https://news.china.com/domestic/945/20260613/49545567.html"
-      },
-      {
-        "title": "“鑫环1号”如何打造“海上粮仓”？",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "“鑫环1号”如何打造“海上粮仓”？",
-        "url": "https://news.china.com/domestic/945/20260613/49545580.html"
-      },
-      {
-        "title": "车贷年利率近18%，车贷利率为何畸高？",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "车贷年利率近18%，车贷利率为何畸高？",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49544387.html"
-      },
-      {
-        "title": "男子带茅台乘高铁被拦下后豪饮整瓶 妻子回应",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "男子带茅台乘高铁被拦下后豪饮整瓶 妻子回应",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49544388.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "企业喊贵，OpenAI准备降价打价格战，与Anthropi",
-        "time": "2026-06-11 12:20",
-        "source": "网易IT",
-        "summary": "6月11日消息，OpenAI正在考虑大幅下调按token计费的AI服务价格，为可能到来的企业客户价格战做准备。《华尔街日报》援引知情人士报道称，降价讨论针对的是大模型API的token价格，知情人士未披露具体降幅。路透社随后转述该报道，并称...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KV52TM5I00097U7T.html"
-      },
-      {
-        "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
-        "time": "2026-06-08 07:57",
-        "source": "网易IT",
-        "summary": "6月8日消息，OpenAI计划把编程工具Codex并入ChatGPT。这不只是一次产品整合，也反映出大模型公司的竞争已经从谁的模型更强扩展到谁能让客户更难离开。《商业内幕》（BusinessInsider）昨日援引Pydantic...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
-      },
-      {
-        "title": "美国AI立法草案曝光：年入5亿美元以上的大模型",
-        "time": "2026-06-05 08:02",
-        "source": "网易IT",
-        "summary": "6月5日消息，美国众议院两党议员周四公布一份269页AI立法讨论稿，试图把前沿AI模型安全审计、员工举报保护和AI就业影响研究纳入联邦框架；争议最大的一条，是三年内限制各州自行监管AI模型开发。这份《伟大美国人工智能法案（GreatAme...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KUL5QCIE00097U7T.html"
-      },
-      {
-        "title": "中央网信办举报中心开设“涉 AI 应用乱象举报专区”，受理 14 类问题",
-        "time": "2026-06-12 16:00",
-        "source": "IT家人工智能",
-        "summary": "中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
-        "url": "https://www.ithome.com/0/963/477.htm"
-      },
-      {
-        "title": "苹果 CoreAI 端侧 AI 架构测试：M4 Mac 上 Qwen3 0.6B 解码速度是 MLX 的 2.47 倍",
-        "time": "2026-06-11 15:00",
-        "source": "IT家人工智能",
-        "summary": "科技媒体Wccftech昨日（6月10日）发布博文，报道称在2026年全球开发者大会（WWDC）上，苹果推出CoreAI引擎，接替2017年推出的CoreML框架，主打端侧大模型推理。",
-        "url": "https://www.ithome.com/0/962/857.htm"
-      },
-      {
-        "title": "中国 AI 大模型周调用量连续六周超越美国，前四名均为国产模型",
-        "time": "2026-06-08 11:00",
-        "source": "IT家人工智能",
-        "summary": "OpenRouter最新数据显示，全球AI大模型总调用量连续七周上涨。中国模型周调用量环比增长27.49%达14.19万亿Token，连续六周超越美国。DeepSeek-V4-Flash蝉联榜首，MiniMax新模型M3首周即冲入前三。#AI大模型##中国AI崛起#",
-        "url": "https://www.ithome.com/0/961/274.htm"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "AI持续走强、消费供应链提前备货发酵，Q1全球前",
-        "time": "2026-06-12 15:06",
-        "source": "网易互联网",
-        "summary": "AI持续走强、消费供应链提前备货发酵，Q1全球前",
-        "url": "https://www.163.com/dy/article/KV7UR7730550WHYR.html"
-      },
-      {
-        "title": "未来五年，投资五万亿元升级这张网",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "未来五年，投资五万亿元升级这张网",
-        "url": "https://news.china.com/domestic/945/20260613/49545545.html"
-      },
-      {
-        "title": "“新三样”领跑全球 中国外贸向新而行",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "“新三样”领跑全球 中国外贸向新而行",
-        "url": "https://news.china.com/domestic/945/20260613/49545567.html"
-      },
-      {
-        "title": "“鑫环1号”如何打造“海上粮仓”？",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "“鑫环1号”如何打造“海上粮仓”？",
-        "url": "https://news.china.com/domestic/945/20260613/49545580.html"
-      },
-      {
-        "title": "车贷年利率近18%，车贷利率为何畸高？",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "车贷年利率近18%，车贷利率为何畸高？",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49544387.html"
-      },
-      {
-        "title": "男子带茅台乘高铁被拦下后豪饮整瓶 妻子回应",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "男子带茅台乘高铁被拦下后豪饮整瓶 妻子回应",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49544388.html"
-      },
-      {
-        "title": "“取快递像扫雷”，丰巢把用户置于何地？ 广告乱象惹争议",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "“取快递像扫雷”，丰巢把用户置于何地？ 广告乱象惹争议",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49543551.html"
-      },
-      {
-        "title": "世界杯对美国意味着什么 经济效应与投资机遇",
-        "time": "2026-06-12 00:00",
-        "source": "中华国内",
-        "summary": "世界杯对美国意味着什么 经济效应与投资机遇",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49543554.html"
       }
     ],
     "投资理财参考": [
