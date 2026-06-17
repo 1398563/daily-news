@@ -1,4 +1,226 @@
 {
+  "2026-06-17": {
+    "宏观政策风向": [
+      {
+        "title": "外企为何纷纷加码中国？",
+        "time": "2026-06-17 00:00",
+        "source": "中华国内",
+        "summary": "外企为何纷纷加码中国？",
+        "url": "https://news.china.com/domestic/945/20260617/49552933.html"
+      },
+      {
+        "title": "车停地库一个多月遇“全菌出击” 霉菌遍布方向盘座椅",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "车停地库一个多月遇“全菌出击” 霉菌遍布方向盘座椅",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49552547.html"
+      },
+      {
+        "title": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550078.html"
+      },
+      {
+        "title": "PCB概念涨幅居前 概念股大幅飙涨",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "PCB概念涨幅居前 概念股大幅飙涨",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550081.html"
+      },
+      {
+        "title": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550082.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Qwen前负责人林俊旸创业首轮估值20亿美元，腾讯",
+        "time": "2026-06-16 08:44",
+        "source": "网易IT",
+        "summary": "6月16日消息，TheInformation报道，腾讯已参与阿里Qwen前核心负责人林俊旸新AI实验室的首轮融资。知情人士称，腾讯在这一轮投入2000万美元；本轮总融资规模为数亿美元，投后估值约20亿美元。本轮由高榕资本和红杉中国领投，知...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KVHIJCPC00097U7T.html"
+      },
+      {
+        "title": "企业喊贵，OpenAI准备降价打价格战，与Anthropi",
+        "time": "2026-06-11 12:20",
+        "source": "网易IT",
+        "summary": "6月11日消息，OpenAI正在考虑大幅下调按token计费的AI服务价格，为可能到来的企业客户价格战做准备。《华尔街日报》援引知情人士报道称，降价讨论针对的是大模型API的token价格，知情人士未披露具体降幅。路透社随后转述该报道，并称...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KV52TM5I00097U7T.html"
+      },
+      {
+        "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
+        "time": "2026-06-08 07:57",
+        "source": "网易IT",
+        "summary": "6月8日消息，OpenAI计划把编程工具Codex并入ChatGPT。这不只是一次产品整合，也反映出大模型公司的竞争已经从谁的模型更强扩展到谁能让客户更难离开。《商业内幕》（BusinessInsider）昨日援引Pydantic...[阅读更多]",
+        "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
+      },
+      {
+        "title": "腾讯张军：智能体 WorkBuddy 将入职政务系统，全国首个省级政务智能中枢平台「湾擎」上线试运行",
+        "time": "2026-06-16 22:00",
+        "source": "IT家人工智能",
+        "summary": "腾讯公司公关总监张军今日宣布，智能体WorkBuddy即将入职政务系统：6月16日，全国首个省级政务智能中枢平台「湾擎」上线试运行，同时预发布湾擎&#183;WorkBuddy，即将面向广东全省公务员开放使用。",
+        "url": "https://www.ithome.com/0/965/103.htm"
+      },
+      {
+        "title": "腾讯网盘官宣“COMING SOON”：多应用数据互通、支持 Agent 调用",
+        "time": "2026-06-16 21:00",
+        "source": "IT家人工智能",
+        "summary": "#腾讯网盘#官网悄悄上线，相关页面显示这款新网盘“COMINGSOON”。据介绍，腾讯网盘支持连接多个AI应用，共享存储，聚合上下文，宣称“生态内所有AI应用的数据产物聚合沉淀，持续形成长期记忆资产”。",
+        "url": "https://www.ithome.com/0/965/094.htm"
+      },
+      {
+        "title": "全球最大 AI 聚合平台上线“拼好模”：Deepseek+Kimi+Gemini 以一半成本实现 Claude Fable 5 级智能",
+        "time": "2026-06-16 17:00",
+        "source": "IT家人工智能",
+        "summary": "全球最大AI大模型API聚合平台OpenRouter于6月14日发布公告，宣布推出FusionAPI复合AI模型，只需约一半成本就能实现ClaudeFable5级别性能。",
+        "url": "https://www.ithome.com/0/964/920.htm"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "神州控股亮相 2026 跨境电商发展大会 “供应链",
+        "time": "2026-06-16 18:02",
+        "source": "网易互联网",
+        "summary": "神州控股亮相 2026 跨境电商发展大会 “供应链",
+        "url": "https://www.163.com/dy/article/KVIIFBK505198UNI.html"
+      },
+      {
+        "title": "外企为何纷纷加码中国？",
+        "time": "2026-06-17 00:00",
+        "source": "中华国内",
+        "summary": "外企为何纷纷加码中国？",
+        "url": "https://news.china.com/domestic/945/20260617/49552933.html"
+      },
+      {
+        "title": "车停地库一个多月遇“全菌出击” 霉菌遍布方向盘座椅",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "车停地库一个多月遇“全菌出击” 霉菌遍布方向盘座椅",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49552547.html"
+      },
+      {
+        "title": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "马克龙拥抱迎接莫迪 G7峰会的精心安排",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550078.html"
+      },
+      {
+        "title": "PCB概念涨幅居前 概念股大幅飙涨",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "PCB概念涨幅居前 概念股大幅飙涨",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550081.html"
+      },
+      {
+        "title": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "为什么马斯克每一手棋，永远都可以提前摆好？ 布局未来押注成功",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550082.html"
+      },
+      {
+        "title": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "二手油车两个月掉了过去两年的价 市场失控价格崩盘",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550083.html"
+      },
+      {
+        "title": "5月份电商物流总业务量同比增长超20%",
+        "time": "2026-06-16 00:00",
+        "source": "中华国内",
+        "summary": "5月份电商物流总业务量同比增长超20%",
+        "url": "https://news.china.com/domestic/945/20260616/49549972.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "前5个月国民经济延续总体平稳、向新向优发展态势",
+        "time": "2026-06-16 13:40",
+        "source": "中国日报财经",
+        "summary": "2026-06-1613:40",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30e2aba310d709c2fb84e9.html"
+      },
+      {
+        "title": "日本央行加息 利率升至31年来新高",
+        "time": "2026-06-16 13:45",
+        "source": "中国日报财经",
+        "summary": "2026-06-1613:45",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30e3e9a310d709c2fb84f8.html"
+      },
+      {
+        "title": "国家外汇管理局：5月外资总体净买入境内股票和债券",
+        "time": "2026-06-16 09:52",
+        "source": "中国日报财经",
+        "summary": "2026-06-1609:52",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30acf9a310d709c2fb83dd.html"
+      },
+      {
+        "title": "年增千万投资者折射A股活力",
+        "time": "2026-06-16 09:53",
+        "source": "中国日报财经",
+        "summary": "2026-06-1609:53",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30ad03a310d709c2fb83df.html"
+      },
+      {
+        "title": "冶金等九大行业节能降碳“路线图”发布",
+        "time": "2026-06-16 09:54",
+        "source": "中国日报财经",
+        "summary": "2026-06-1609:54",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30ad0ba310d709c2fb83e1.html"
+      },
+      {
+        "title": "美战略石油储备创新低加剧市场担忧",
+        "time": "2026-06-16 09:55",
+        "source": "中国日报财经",
+        "summary": "2026-06-1609:55",
+        "url": "//caijing.chinadaily.com.cn/a/202606/16/WS6a30ad3aa310d709c2fb83e3.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "中国海警局发布位马祖岛、乌丘屿附近海域执法巡查示意图",
+        "time": "2025-12-29 16:15",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/33416de375.shtml"
+      },
+      {
+        "title": "东部战区组织轰炸机编队赴台岛以东开展远海战备巡航",
+        "time": "2025-12-29 16:24",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/1625d99390.shtml"
+      },
+      {
+        "title": "深圳新鹏城官宣：张煜东等五名球员合同期满离队",
+        "time": "2025-12-29 16:41",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/2f69d1d748.shtml"
+      },
+      {
+        "title": "外交部：中方对巴拿马有关地方政府强拆华人抵巴纪念碑行径严重不满",
+        "time": "2025-12-29 16:25",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/d6348d258d.shtml"
+      },
+      {
+        "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
+        "time": "2025-12-29 16:34",
+        "source": "南方社会",
+        "summary": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/298c26fbf1.shtml"
+      }
+    ]
+  },
   "2026-06-16": {
     "宏观政策风向": [
       {
@@ -359,228 +581,6 @@
         "source": "中华国内",
         "summary": "义乌，又爆单了！这次，赚“足”眼球",
         "url": "https://news.china.com/domestic/945/20260614/49546585.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "鸡蛋价格为何逆势上涨？如何看待这次价格波动？",
-        "time": "2026-06-11 15:05",
-        "source": "中国日报财经",
-        "summary": "5月以来，鸡蛋价格已连续5周上涨。截至6月9日14时，全国农产品批发市场每公斤鸡蛋平均价格为10.85元，比前一天上升2.3%。鸡蛋价格为何出现“淡季不淡”的逆势上涨？2026-06-1115:05",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5e55a310942cc49b13b5.html"
-      },
-      {
-        "title": "美国政府5月退还近220亿美元关税",
-        "time": "2026-06-11 15:07",
-        "source": "中国日报财经",
-        "summary": "美国财政部10日发布的月度财政数据显示，美国联邦政府5月关税退款金额接近220亿美元，当月美国海关关税净收入为负数。2026-06-1115:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5ee2a310942cc49b13b6.html"
-      },
-      {
-        "title": "“世界杯经济”开场哨将响 A股公司多赛道掘金",
-        "time": "2026-06-11 15:10",
-        "source": "中国日报财经",
-        "summary": "本届世界杯不仅点燃了全球球迷的观赛热情，更成为A股上市公司多赛道掘金的重要舞台。2026-06-1115:10",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a5f74a310942cc49b13b8.html"
-      },
-      {
-        "title": "中国智造出海进入新阶段",
-        "time": "2026-06-11 15:12",
-        "source": "中国日报财经",
-        "summary": "从卖产品到卖方案，从性价比到可靠性，从扎下根到长出茎叶、结出果实，中国智造出海正进入全新阶段。2026-06-1115:12",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a600fa310942cc49b13bd.html"
-      },
-      {
-        "title": "《住房公积金管理条例》迎重大修订——让公积金更普惠、更管用",
-        "time": "2026-06-11 10:51",
-        "source": "中国日报财经",
-        "summary": "住房城乡建设部就《住房公积金管理条例（修订征求意见稿）》公开征求意见，意见反馈截止日期为2026年7月5日。2026-06-1110:51",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a22c1a310942cc49b1241.html"
-      },
-      {
-        "title": "国际油价大涨 金价跌破每盎司4100美元关口",
-        "time": "2026-06-11 11:07",
-        "source": "中国日报财经",
-        "summary": "2026-06-1111:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a26a6a310942cc49b125f.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "中国海警局发布位马祖岛、乌丘屿附近海域执法巡查示意图",
-        "time": "2025-12-29 16:15",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/33416de375.shtml"
-      },
-      {
-        "title": "东部战区组织轰炸机编队赴台岛以东开展远海战备巡航",
-        "time": "2025-12-29 16:24",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/1625d99390.shtml"
-      },
-      {
-        "title": "深圳新鹏城官宣：张煜东等五名球员合同期满离队",
-        "time": "2025-12-29 16:41",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/2f69d1d748.shtml"
-      },
-      {
-        "title": "外交部：中方对巴拿马有关地方政府强拆华人抵巴纪念碑行径严重不满",
-        "time": "2025-12-29 16:25",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/d6348d258d.shtml"
-      },
-      {
-        "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
-        "time": "2025-12-29 16:34",
-        "source": "南方社会",
-        "summary": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/298c26fbf1.shtml"
-      }
-    ]
-  },
-  "2026-06-14": {
-    "宏观政策风向": [
-      {
-        "title": "N种方式解锁端午民俗 龙舟竞渡与新式艾草花束",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "N种方式解锁端午民俗 龙舟竞渡与新式艾草花束",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546280.html"
-      },
-      {
-        "title": "NBA总决赛G4社媒有30亿次观看 创单场新高",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "NBA总决赛G4社媒有30亿次观看 创单场新高",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546092.html"
-      },
-      {
-        "title": "阿联酋否认向伊朗转移资金 报道纯属捏造",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "阿联酋否认向伊朗转移资金 报道纯属捏造",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546093.html"
-      },
-      {
-        "title": "13岁学生学校体检误诊艾滋遭劝退 复查阴性返校",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "13岁学生学校体检误诊艾滋遭劝退 复查阴性返校",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49545901.html"
-      },
-      {
-        "title": "阿斯：穆帅执教风格已经转变 更重关系而非对抗",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "阿斯：穆帅执教风格已经转变 更重关系而非对抗",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49545902.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "企业喊贵，OpenAI准备降价打价格战，与Anthropi",
-        "time": "2026-06-11 12:20",
-        "source": "网易IT",
-        "summary": "6月11日消息，OpenAI正在考虑大幅下调按token计费的AI服务价格，为可能到来的企业客户价格战做准备。《华尔街日报》援引知情人士报道称，降价讨论针对的是大模型API的token价格，知情人士未披露具体降幅。路透社随后转述该报道，并称...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KV52TM5I00097U7T.html"
-      },
-      {
-        "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
-        "time": "2026-06-08 07:57",
-        "source": "网易IT",
-        "summary": "6月8日消息，OpenAI计划把编程工具Codex并入ChatGPT。这不只是一次产品整合，也反映出大模型公司的竞争已经从谁的模型更强扩展到谁能让客户更难离开。《商业内幕》（BusinessInsider）昨日援引Pydantic...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
-      },
-      {
-        "title": "美国AI立法草案曝光：年入5亿美元以上的大模型",
-        "time": "2026-06-05 08:02",
-        "source": "网易IT",
-        "summary": "6月5日消息，美国众议院两党议员周四公布一份269页AI立法讨论稿，试图把前沿AI模型安全审计、员工举报保护和AI就业影响研究纳入联邦框架；争议最大的一条，是三年内限制各州自行监管AI模型开发。这份《伟大美国人工智能法案（GreatAme...[阅读更多]",
-        "url": "https://www.163.com/tech/article/KUL5QCIE00097U7T.html"
-      },
-      {
-        "title": "京东健康将与北京友谊医院共建消化系统专科大模型，应用于胃肠镜早癌筛查等场景",
-        "time": "2026-06-13 19:00",
-        "source": "IT家人工智能",
-        "summary": "双方将在三个层面展开合作：共建消化系统高质量数据集；在数据集基础上联合研发消化系统专病大模型；推动大模型在线上、线下双场景落地应用。",
-        "url": "https://www.ithome.com/0/963/924.htm"
-      },
-      {
-        "title": "中央网信办举报中心开设“涉 AI 应用乱象举报专区”，受理 14 类问题",
-        "time": "2026-06-12 16:00",
-        "source": "IT家人工智能",
-        "summary": "中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
-        "url": "https://www.ithome.com/0/963/477.htm"
-      },
-      {
-        "title": "苹果 CoreAI 端侧 AI 架构测试：M4 Mac 上 Qwen3 0.6B 解码速度是 MLX 的 2.47 倍",
-        "time": "2026-06-11 15:00",
-        "source": "IT家人工智能",
-        "summary": "科技媒体Wccftech昨日（6月10日）发布博文，报道称在2026年全球开发者大会（WWDC）上，苹果推出CoreAI引擎，接替2017年推出的CoreML框架，主打端侧大模型推理。",
-        "url": "https://www.ithome.com/0/962/857.htm"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "N种方式解锁端午民俗 龙舟竞渡与新式艾草花束",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "N种方式解锁端午民俗 龙舟竞渡与新式艾草花束",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546280.html"
-      },
-      {
-        "title": "NBA总决赛G4社媒有30亿次观看 创单场新高",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "NBA总决赛G4社媒有30亿次观看 创单场新高",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546092.html"
-      },
-      {
-        "title": "阿联酋否认向伊朗转移资金 报道纯属捏造",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "阿联酋否认向伊朗转移资金 报道纯属捏造",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546093.html"
-      },
-      {
-        "title": "13岁学生学校体检误诊艾滋遭劝退 复查阴性返校",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "13岁学生学校体检误诊艾滋遭劝退 复查阴性返校",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49545901.html"
-      },
-      {
-        "title": "阿斯：穆帅执教风格已经转变 更重关系而非对抗",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "阿斯：穆帅执教风格已经转变 更重关系而非对抗",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49545902.html"
-      },
-      {
-        "title": "世界最大跨径钢拱桥钢混组合梁合龙",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "世界最大跨径钢拱桥钢混组合梁合龙",
-        "url": "https://news.china.com/domestic/945/20260613/49545719.html"
-      },
-      {
-        "title": "一线调研丨织密全域物流网 畅通经济大动脉",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "一线调研丨织密全域物流网 畅通经济大动脉",
-        "url": "https://news.china.com/domestic/945/20260613/49545733.html"
-      },
-      {
-        "title": "河北衡水湖：鸟育雏忙 莲绽娇颜",
-        "time": "2026-06-13 00:00",
-        "source": "中华国内",
-        "summary": "河北衡水湖：鸟育雏忙 莲绽娇颜",
-        "url": "https://news.china.com/domestic/945/20260613/49545620.html"
       }
     ],
     "投资理财参考": [
