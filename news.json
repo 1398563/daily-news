@@ -1,4 +1,226 @@
 {
+  "2026-07-04": {
+    "宏观政策风向": [
+      {
+        "title": "大疆维权诉影石新案即将开庭 专利战升级",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "大疆维权诉影石新案即将开庭 专利战升级",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49587362.html"
+      },
+      {
+        "title": "金价大跌有人买1千克金条省10万 按公斤囤黄金成趋势",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "金价大跌有人买1千克金条省10万 按公斤囤黄金成趋势",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49585586.html"
+      },
+      {
+        "title": "暑运开启 旅游、球迷专列如何买票？",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "暑运开启 旅游、球迷专列如何买票？",
+        "url": "https://news.china.com/domestic/945/20260703/49585752.html"
+      },
+      {
+        "title": "国家海洋预报台发布海浪黄色警报和风暴潮蓝色警报",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "国家海洋预报台发布海浪黄色警报和风暴潮蓝色警报",
+        "url": "https://news.china.com/domestic/945/20260703/49585769.html"
+      },
+      {
+        "title": "前5月我国软件业务收入同比增长10.3%",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "前5月我国软件业务收入同比增长10.3%",
+        "url": "https://news.china.com/domestic/945/20260703/49585787.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Meta推出全新社交AI应用Pocket，核心玩法是Vibe",
+        "time": "2026-07-03 16:20",
+        "source": "网易科技",
+        "summary": "Meta推出全新社交AI应用Pocket，核心玩法是Vibe",
+        "url": "https://www.163.com/dy/article/L0U5CVMV05118EDB.html"
+      },
+      {
+        "title": "可灵AI上市前夜，快手想给它融30亿美元",
+        "time": "2026-07-02 08:03",
+        "source": "网易IT",
+        "summary": "7月2日消息，可灵AI被快手推到资本市场门口。据《南华早报》报道，可灵AI接近完成一轮30亿美元融资，投后估值达到180亿美元。知情人士称，腾讯也在本轮投资方之列。快手还预计在未来12个月内启动可灵AI的港交所上市流程，IPO募资将用于建设...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L0QMJ97K00097U7T.html"
+      },
+      {
+        "title": "Anthropic致信白宫指控同义千问蒸馏Claude",
+        "time": "2026-06-25 15:28",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小爪编辑|王凤枝彭博6月25日报道，Anthropic致信多名美国参议员和白宫官员。信中指控，与阿里巴巴通义千问（Qwen）AI实验室有关联的操作者，大规模、未经授权地访问Claude，意在获取其软件工程和智...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L09F953200097U7T.html"
+      },
+      {
+        "title": "英伟达开源 TwoTower AI 模型：保留 98.7% 质量，Token 生成提速 2.42 倍",
+        "time": "2026-07-03 15:00",
+        "source": "IT家人工智能",
+        "summary": "英伟达昨日（7月2日）发布博文，宣布推出Nemotron-Labs-TwoTower，是一种基于预训练自回归骨干网络的离散扩散语言模型，致力于解决大模型Token生成速度瓶颈。",
+        "url": "https://www.ithome.com/0/972/162.htm"
+      },
+      {
+        "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+        "time": "2026-07-02 23:00",
+        "source": "IT家人工智能",
+        "summary": "多家科技、金融巨头因AI成本飙升，正限制员工使用高性能大模型。Atlassian月度AI支出从500万飙升至1500万美元，花旗、Adobe等已禁用Claude、GPT-5.5等旗舰模型，并引导员工改用低配版以控制词元消耗。#AI成本失控#",
+        "url": "https://www.ithome.com/0/971/937.htm"
+      },
+      {
+        "title": "王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容",
+        "time": "2026-07-02 23:00",
+        "source": "IT家人工智能",
+        "summary": "HTC已转型为AI、XR内容平台，VIVERSE平台月活破150万，形成创作者生态，三季度将推新AI应用，AI智能眼镜VIVEEagle将登陆欧美市场#HTC转型#",
+        "url": "https://www.ithome.com/0/971/916.htm"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "瞄准供应链，神州控股“Data × AI”战略加速进",
+        "time": "2026-07-03 20:30",
+        "source": "网易互联网",
+        "summary": "瞄准供应链，神州控股“Data × AI”战略加速进",
+        "url": "https://www.163.com/dy/article/L0U8E5EM0519875F.html"
+      },
+      {
+        "title": "新疆疆域优品供应链有限公司打造直播出疆新阵地",
+        "time": "2026-07-03 14:55",
+        "source": "网易互联网",
+        "summary": "新疆疆域优品供应链有限公司打造直播出疆新阵地",
+        "url": "https://www.163.com/dy/article/L0U0HCTU0514R9OJ.html"
+      },
+      {
+        "title": "大疆维权诉影石新案即将开庭 专利战升级",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "大疆维权诉影石新案即将开庭 专利战升级",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49587362.html"
+      },
+      {
+        "title": "金价大跌有人买1千克金条省10万 按公斤囤黄金成趋势",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "金价大跌有人买1千克金条省10万 按公斤囤黄金成趋势",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49585586.html"
+      },
+      {
+        "title": "迈入工作一线，人形机器人成“明星员工”",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "迈入工作一线，人形机器人成“明星员工”",
+        "url": "https://news.china.com/domestic/945/20260703/49585714.html"
+      },
+      {
+        "title": "暑运开启 旅游、球迷专列如何买票？",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "暑运开启 旅游、球迷专列如何买票？",
+        "url": "https://news.china.com/domestic/945/20260703/49585752.html"
+      },
+      {
+        "title": "国家海洋预报台发布海浪黄色警报和风暴潮蓝色警报",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "国家海洋预报台发布海浪黄色警报和风暴潮蓝色警报",
+        "url": "https://news.china.com/domestic/945/20260703/49585769.html"
+      },
+      {
+        "title": "前5月我国软件业务收入同比增长10.3%",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "前5月我国软件业务收入同比增长10.3%",
+        "url": "https://news.china.com/domestic/945/20260703/49585787.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "5月末银行理财规模超35万亿元 创历史新高",
+        "time": "2026-07-01 09:45",
+        "source": "中国日报财经",
+        "summary": "2026-07-0109:45",
+        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a44716fa310d709c2fbb2e4.html"
+      },
+      {
+        "title": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场",
+        "time": "2026-07-03 10:05",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:05",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4718e4a310d709c2fbb9f4.html"
+      },
+      {
+        "title": "债券通运行九周年：人民币资产全球吸引力稳步攀升",
+        "time": "2026-07-03 10:06",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:06",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a471917a310d709c2fbb9f5.html"
+      },
+      {
+        "title": "多地中职招生火爆，职业教育为何变成“香饽饽”",
+        "time": "2026-07-03 10:07",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:07",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a471999a310d709c2fbb9f8.html"
+      },
+      {
+        "title": "国际油价仍未挣脱“海峡困局”",
+        "time": "2026-07-03 10:08",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:08",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4719b1a310d709c2fbb9fa.html"
+      },
+      {
+        "title": "人力资源社会保障部启动2026年高校毕业生等青年就业服务攻坚行动",
+        "time": "2026-07-02 10:28",
+        "source": "中国日报财经",
+        "summary": "2026-07-0210:28",
+        "url": "//caijing.chinadaily.com.cn/a/202607/02/WS6a45cd16a310d709c2fbb6f1.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "曝阿里7月10日起全面禁用Claude 切断AI工具通道",
+        "time": "2026-07-03 00:00",
+        "source": "中华社会",
+        "summary": "曝阿里7月10日起全面禁用Claude 切断AI工具通道",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49588011.html"
+      },
+      {
+        "title": "北京今日最高气温出现在朝阳豆各庄 全市热浪滚滚",
+        "time": "2026-07-03 00:00",
+        "source": "中华社会",
+        "summary": "北京今日最高气温出现在朝阳豆各庄 全市热浪滚滚",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49587905.html"
+      },
+      {
+        "title": "找人！特斯拉高速撞护栏起火",
+        "time": "2026-07-03 00:00",
+        "source": "中华社会",
+        "summary": "找人！特斯拉高速撞护栏起火",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49587360.html"
+      },
+      {
+        "title": "预防车辆自燃 高温天这些安全事项要注意",
+        "time": "2026-07-03 00:00",
+        "source": "中华社会",
+        "summary": "预防车辆自燃 高温天这些安全事项要注意",
+        "url": "https://news.china.com/social/1007/20260703/49587219.html"
+      },
+      {
+        "title": "辅助驾驶≠自动驾驶 交警严查夏季酒驾醉驾",
+        "time": "2026-07-03 00:00",
+        "source": "中华社会",
+        "summary": "辅助驾驶≠自动驾驶 交警严查夏季酒驾醉驾",
+        "url": "https://news.china.com/social/1007/20260703/49587233.html"
+      }
+    ]
+  },
   "2026-07-03": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "打着“养生馆”的幌子招揽老年顾客敛财",
         "url": "https://news.china.com/social/1007/20260701/49582507.html"
-      }
-    ]
-  },
-  "2026-07-01": {
-    "宏观政策风向": [
-      {
-        "title": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49580522.html"
-      },
-      {
-        "title": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579802.html"
-      },
-      {
-        "title": "国家质检中心去年以来服务超70万家中小微企业",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "国家质检中心去年以来服务超70万家中小微企业",
-        "url": "https://news.china.com/domestic/945/20260630/49578278.html"
-      },
-      {
-        "title": "永葆先锋本色，在新征程上建功立业",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "永葆先锋本色，在新征程上建功立业",
-        "url": "https://news.china.com/domestic/945/20260630/49578335.html"
-      },
-      {
-        "title": "飞瞰西十高铁：一日看尽秦楚美",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "飞瞰西十高铁：一日看尽秦楚美",
-        "url": "https://news.china.com/domestic/945/20260630/49578354.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "算力供给告急！谷歌限制Meta调用Gemini大模型｜",
-        "time": "2026-06-30 09:40",
-        "source": "网易科技",
-        "summary": "算力供给告急！谷歌限制Meta调用Gemini大模型｜",
-        "url": "https://www.163.com/dy/article/L0LNAOFF0512B07B.html"
-      },
-      {
-        "title": "谷歌算力告急！限制Meta对其人工智能大模型Gemi",
-        "time": "2026-06-29 16:22",
-        "source": "网易科技",
-        "summary": "谷歌算力告急！限制Meta对其人工智能大模型Gemi",
-        "url": "https://www.163.com/dy/article/L0JRU0H40550WHYR.html"
-      },
-      {
-        "title": "算力告急，谷歌限制Meta对Gemini AI大模型的使",
-        "time": "2026-06-29 16:27",
-        "source": "网易科技",
-        "summary": "算力告急，谷歌限制Meta对Gemini AI大模型的使",
-        "url": "https://www.163.com/dy/article/L0JS6KCR0534A4SC.html"
-      },
-      {
-        "title": "消息称Meta需求过大，谷歌对其调用Gemini大模型",
-        "time": "2026-06-28 14:54",
-        "source": "网易科技",
-        "summary": "消息称Meta需求过大，谷歌对其调用Gemini大模型",
-        "url": "https://www.163.com/dy/article/L0H4GQQA0511B8LM.html"
-      },
-      {
-        "title": "Meta被曝使用AI取代人工审核员 大模型已接管50%",
-        "time": "2026-06-25 14:53",
-        "source": "网易科技",
-        "summary": "Meta被曝使用AI取代人工审核员 大模型已接管50%",
-        "url": "https://www.163.com/dy/article/L09D897D0519QIKK.html"
-      },
-      {
-        "title": "Anthropic致信白宫指控同义千问蒸馏Claude",
-        "time": "2026-06-25 15:28",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小爪编辑|王凤枝彭博6月25日报道，Anthropic致信多名美国参议员和白宫官员。信中指控，与阿里巴巴通义千问（Qwen）AI实验室有关联的操作者，大规模、未经授权地访问Claude，意在获取其软件工程和智...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L09F953200097U7T.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49580522.html"
-      },
-      {
-        "title": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579802.html"
-      },
-      {
-        "title": "国家质检中心去年以来服务超70万家中小微企业",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "国家质检中心去年以来服务超70万家中小微企业",
-        "url": "https://news.china.com/domestic/945/20260630/49578278.html"
-      },
-      {
-        "title": "永葆先锋本色，在新征程上建功立业",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "永葆先锋本色，在新征程上建功立业",
-        "url": "https://news.china.com/domestic/945/20260630/49578335.html"
-      },
-      {
-        "title": "飞瞰西十高铁：一日看尽秦楚美",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "飞瞰西十高铁：一日看尽秦楚美",
-        "url": "https://news.china.com/domestic/945/20260630/49578354.html"
-      },
-      {
-        "title": "与历史同步伐 与时代共命运",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "与历史同步伐 与时代共命运",
-        "url": "https://news.china.com/domestic/945/20260630/49578008.html"
-      },
-      {
-        "title": "在霍尔果斯，外商从“客人”变“家人”",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "在霍尔果斯，外商从“客人”变“家人”",
-        "url": "https://news.china.com/domestic/945/20260630/49578021.html"
-      },
-      {
-        "title": "看到祖国的界碑，年轻的他们热泪盈眶",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "看到祖国的界碑，年轻的他们热泪盈眶",
-        "url": "https://news.china.com/domestic/945/20260630/49578033.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "中欧贸易投资磋商机制首次会议举行并发表联合声明",
-        "time": "2026-06-30 10:04",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:04",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a4325c9a310d709c2fbae27.html"
-      },
-      {
-        "title": "日元对美元汇率跌至近40年来最低水平",
-        "time": "2026-06-30 10:04",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:04",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a43256fa310d709c2fbae24.html"
-      },
-      {
-        "title": "时隔四个月商务部为何再对日本实体升级管制？专家解读",
-        "time": "2026-06-30 10:06",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:06",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a43253ca310d709c2fbae22.html"
-      },
-      {
-        "title": "中国开源大模型如何真正实现“价值出海”？",
-        "time": "2026-06-30 10:07",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a432511a310d709c2fbae21.html"
-      },
-      {
-        "title": "太空光伏产业加速破局 A股上市公司抢滩万亿新赛道",
-        "time": "2026-06-30 10:13",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:13",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a43266fa310d709c2fbae31.html"
-      },
-      {
-        "title": "事关3万亿元市场 政府采购法迎来首次系统性修订",
-        "time": "2026-06-29 10:21",
-        "source": "中国日报财经",
-        "summary": "2026-06-2910:21",
-        "url": "//caijing.chinadaily.com.cn/a/202606/29/WS6a41d74ea310d709c2fba8d9.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "碧桂园按期兑付1434万美元 信用修复迎突破",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "碧桂园按期兑付1434万美元 信用修复迎突破",
-        "url": "https://news.china.com/socialgd/10000169/20260701/49580745.html"
-      },
-      {
-        "title": "姆巴佩哈兰德将同日出场 双星闪耀足坛",
-        "time": "2026-06-30 00:00",
-        "source": "中华社会",
-        "summary": "姆巴佩哈兰德将同日出场 双星闪耀足坛",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579341.html"
-      },
-      {
-        "title": "外卖小哥送单顺手送个嫌疑人 外卖小哥车头一拐绊倒嫌疑人",
-        "time": "2026-06-30 00:00",
-        "source": "中华社会",
-        "summary": "外卖小哥送单顺手送个嫌疑人 外卖小哥车头一拐绊倒嫌疑人",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579112.html"
-      },
-      {
-        "title": "空调在印度成为奢侈品 极端高温下的无奈现实",
-        "time": "2026-06-30 00:00",
-        "source": "中华社会",
-        "summary": "空调在印度成为奢侈品 极端高温下的无奈现实",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579114.html"
-      },
-      {
-        "title": "博主巧思做出“鱼跃龙门” 火锅店里的创意画展",
-        "time": "2026-06-30 00:00",
-        "source": "中华社会",
-        "summary": "博主巧思做出“鱼跃龙门” 火锅店里的创意画展",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579122.html"
       }
     ]
   }
