@@ -1,4 +1,226 @@
 {
+  "2026-07-05": {
+    "宏观政策风向": [
+      {
+        "title": "电子屏显示旅客如厕时长 旅客：尴尬 设计初衷引争议",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "电子屏显示旅客如厕时长 旅客：尴尬 设计初衷引争议",
+        "url": "https://news.china.com/socialgd/10000169/20260704/49588783.html"
+      },
+      {
+        "title": "10000亿元！央行宣布：下周一操作",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "10000亿元！央行宣布：下周一操作",
+        "url": "https://news.china.com/domestic/945/20260704/49588081.html"
+      },
+      {
+        "title": "田间地头显身手 看机器人如何高效作业",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "田间地头显身手 看机器人如何高效作业",
+        "url": "https://news.china.com/domestic/945/20260704/49588094.html"
+      },
+      {
+        "title": "全球最大甲醇双燃料集装箱船首航青岛港",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "全球最大甲醇双燃料集装箱船首航青岛港",
+        "url": "https://news.china.com/domestic/945/20260704/49588106.html"
+      },
+      {
+        "title": "我国科研人员发现两种蛙类新物种",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "我国科研人员发现两种蛙类新物种",
+        "url": "https://news.china.com/domestic/945/20260704/49588118.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Meta推出全新社交AI应用Pocket，核心玩法是Vibe",
+        "time": "2026-07-03 16:20",
+        "source": "网易科技",
+        "summary": "Meta推出全新社交AI应用Pocket，核心玩法是Vibe",
+        "url": "https://www.163.com/dy/article/L0U5CVMV05118EDB.html"
+      },
+      {
+        "title": "可灵AI上市前夜，快手想给它融30亿美元",
+        "time": "2026-07-02 08:03",
+        "source": "网易IT",
+        "summary": "7月2日消息，可灵AI被快手推到资本市场门口。据《南华早报》报道，可灵AI接近完成一轮30亿美元融资，投后估值达到180亿美元。知情人士称，腾讯也在本轮投资方之列。快手还预计在未来12个月内启动可灵AI的港交所上市流程，IPO募资将用于建设...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L0QMJ97K00097U7T.html"
+      },
+      {
+        "title": "Anthropic致信白宫指控同义千问蒸馏Claude",
+        "time": "2026-06-25 15:28",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小爪编辑|王凤枝彭博6月25日报道，Anthropic致信多名美国参议员和白宫官员。信中指控，与阿里巴巴通义千问（Qwen）AI实验室有关联的操作者，大规模、未经授权地访问Claude，意在获取其软件工程和智...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L09F953200097U7T.html"
+      },
+      {
+        "title": "英伟达开源 TwoTower AI 模型：保留 98.7% 质量，Token 生成提速 2.42 倍",
+        "time": "2026-07-03 15:00",
+        "source": "IT家人工智能",
+        "summary": "英伟达昨日（7月2日）发布博文，宣布推出Nemotron-Labs-TwoTower，是一种基于预训练自回归骨干网络的离散扩散语言模型，致力于解决大模型Token生成速度瓶颈。",
+        "url": "https://www.ithome.com/0/972/162.htm"
+      },
+      {
+        "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+        "time": "2026-07-02 23:00",
+        "source": "IT家人工智能",
+        "summary": "多家科技、金融巨头因AI成本飙升，正限制员工使用高性能大模型。Atlassian月度AI支出从500万飙升至1500万美元，花旗、Adobe等已禁用Claude、GPT-5.5等旗舰模型，并引导员工改用低配版以控制词元消耗。#AI成本失控#",
+        "url": "https://www.ithome.com/0/971/937.htm"
+      },
+      {
+        "title": "王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容",
+        "time": "2026-07-02 23:00",
+        "source": "IT家人工智能",
+        "summary": "HTC已转型为AI、XR内容平台，VIVERSE平台月活破150万，形成创作者生态，三季度将推新AI应用，AI智能眼镜VIVEEagle将登陆欧美市场#HTC转型#",
+        "url": "https://www.ithome.com/0/971/916.htm"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "瞄准供应链，神州控股“Data × AI”战略加速进",
+        "time": "2026-07-03 20:30",
+        "source": "网易互联网",
+        "summary": "瞄准供应链，神州控股“Data × AI”战略加速进",
+        "url": "https://www.163.com/dy/article/L0U8E5EM0519875F.html"
+      },
+      {
+        "title": "电子屏显示旅客如厕时长 旅客：尴尬 设计初衷引争议",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "电子屏显示旅客如厕时长 旅客：尴尬 设计初衷引争议",
+        "url": "https://news.china.com/socialgd/10000169/20260704/49588783.html"
+      },
+      {
+        "title": "10000亿元！央行宣布：下周一操作",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "10000亿元！央行宣布：下周一操作",
+        "url": "https://news.china.com/domestic/945/20260704/49588081.html"
+      },
+      {
+        "title": "田间地头显身手 看机器人如何高效作业",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "田间地头显身手 看机器人如何高效作业",
+        "url": "https://news.china.com/domestic/945/20260704/49588094.html"
+      },
+      {
+        "title": "全球最大甲醇双燃料集装箱船首航青岛港",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "全球最大甲醇双燃料集装箱船首航青岛港",
+        "url": "https://news.china.com/domestic/945/20260704/49588106.html"
+      },
+      {
+        "title": "我国科研人员发现两种蛙类新物种",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "我国科研人员发现两种蛙类新物种",
+        "url": "https://news.china.com/domestic/945/20260704/49588118.html"
+      },
+      {
+        "title": "境外来电披上本地“马甲” 助诈团伙被抓",
+        "time": "2026-07-04 00:00",
+        "source": "中华国内",
+        "summary": "境外来电披上本地“马甲” 助诈团伙被抓",
+        "url": "https://news.china.com/domestic/945/20260704/49588140.html"
+      },
+      {
+        "title": "大疆维权诉影石新案即将开庭 专利战升级",
+        "time": "2026-07-03 00:00",
+        "source": "中华国内",
+        "summary": "大疆维权诉影石新案即将开庭 专利战升级",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49587362.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "5月末银行理财规模超35万亿元 创历史新高",
+        "time": "2026-07-01 09:45",
+        "source": "中国日报财经",
+        "summary": "2026-07-0109:45",
+        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a44716fa310d709c2fbb2e4.html"
+      },
+      {
+        "title": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场",
+        "time": "2026-07-03 10:05",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:05",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4718e4a310d709c2fbb9f4.html"
+      },
+      {
+        "title": "债券通运行九周年：人民币资产全球吸引力稳步攀升",
+        "time": "2026-07-03 10:06",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:06",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a471917a310d709c2fbb9f5.html"
+      },
+      {
+        "title": "多地中职招生火爆，职业教育为何变成“香饽饽”",
+        "time": "2026-07-03 10:07",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:07",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a471999a310d709c2fbb9f8.html"
+      },
+      {
+        "title": "国际油价仍未挣脱“海峡困局”",
+        "time": "2026-07-03 10:08",
+        "source": "中国日报财经",
+        "summary": "2026-07-0310:08",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4719b1a310d709c2fbb9fa.html"
+      },
+      {
+        "title": "人力资源社会保障部启动2026年高校毕业生等青年就业服务攻坚行动",
+        "time": "2026-07-02 10:28",
+        "source": "中国日报财经",
+        "summary": "2026-07-0210:28",
+        "url": "//caijing.chinadaily.com.cn/a/202607/02/WS6a45cd16a310d709c2fbb6f1.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "新闻1+1丨台风、高温同时来袭 7月气候趋势如何？",
+        "time": "2026-07-04 00:00",
+        "source": "中华社会",
+        "summary": "新闻1+1丨台风、高温同时来袭 7月气候趋势如何？",
+        "url": "https://news.china.com/social/1007/20260704/49588672.html"
+      },
+      {
+        "title": "多地多部门采取措施积极应对高温天气“烤”验",
+        "time": "2026-07-04 00:00",
+        "source": "中华社会",
+        "summary": "多地多部门采取措施积极应对高温天气“烤”验",
+        "url": "https://news.china.com/social/1007/20260704/49588683.html"
+      },
+      {
+        "title": "暴雨、台风、强对流天气 中央气象台三预警齐发",
+        "time": "2026-07-04 00:00",
+        "source": "中华社会",
+        "summary": "暴雨、台风、强对流天气 中央气象台三预警齐发",
+        "url": "https://news.china.com/social/1007/20260704/49588693.html"
+      },
+      {
+        "title": "暑期邮轮季开启 近50艘次邮轮将从天津启航",
+        "time": "2026-07-04 00:00",
+        "source": "中华社会",
+        "summary": "暑期邮轮季开启 近50艘次邮轮将从天津启航",
+        "url": "https://news.china.com/social/1007/20260704/49588704.html"
+      },
+      {
+        "title": "解压玩具：越玩越解压，还是越玩越焦虑？",
+        "time": "2026-07-04 00:00",
+        "source": "中华社会",
+        "summary": "解压玩具：越玩越解压，还是越玩越焦虑？",
+        "url": "https://news.china.com/social/1007/20260704/49588718.html"
+      }
+    ]
+  },
   "2026-07-04": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "有行为即构罪 了解反间谍法这些要点→",
         "url": "https://news.china.com/social/1007/20260702/49584862.html"
-      }
-    ]
-  },
-  "2026-07-02": {
-    "宏观政策风向": [
-      {
-        "title": "回归祖国29周年，香港欢庆热潮升温",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "回归祖国29周年，香港欢庆热潮升温",
-        "url": "https://news.china.com/domestic/945/20260701/49580794.html"
-      },
-      {
-        "title": "科学“慧”管夯实秋粮丰收根基",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "科学“慧”管夯实秋粮丰收根基",
-        "url": "https://news.china.com/domestic/945/20260701/49580817.html"
-      },
-      {
-        "title": "红色研学 各地开展多样活动迎“七一”",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "红色研学 各地开展多样活动迎“七一”",
-        "url": "https://news.china.com/domestic/945/20260701/49580834.html"
-      },
-      {
-        "title": "因地制宜兴产业 深耕乡土谋振兴",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "因地制宜兴产业 深耕乡土谋振兴",
-        "url": "https://news.china.com/domestic/945/20260701/49580849.html"
-      },
-      {
-        "title": "成渝铁路改造工程江津至铜罐驿段双线通车",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "成渝铁路改造工程江津至铜罐驿段双线通车",
-        "url": "https://news.china.com/domestic/945/20260701/49580865.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "算力供给告急！谷歌限制Meta调用Gemini大模型｜",
-        "time": "2026-06-30 09:40",
-        "source": "网易科技",
-        "summary": "算力供给告急！谷歌限制Meta调用Gemini大模型｜",
-        "url": "https://www.163.com/dy/article/L0LNAOFF0512B07B.html"
-      },
-      {
-        "title": "谷歌算力告急！限制Meta对其人工智能大模型Gemi",
-        "time": "2026-06-29 16:22",
-        "source": "网易科技",
-        "summary": "谷歌算力告急！限制Meta对其人工智能大模型Gemi",
-        "url": "https://www.163.com/dy/article/L0JRU0H40550WHYR.html"
-      },
-      {
-        "title": "算力告急，谷歌限制Meta对Gemini AI大模型的使",
-        "time": "2026-06-29 16:27",
-        "source": "网易科技",
-        "summary": "算力告急，谷歌限制Meta对Gemini AI大模型的使",
-        "url": "https://www.163.com/dy/article/L0JS6KCR0534A4SC.html"
-      },
-      {
-        "title": "消息称Meta需求过大，谷歌对其调用Gemini大模型",
-        "time": "2026-06-28 14:54",
-        "source": "网易科技",
-        "summary": "消息称Meta需求过大，谷歌对其调用Gemini大模型",
-        "url": "https://www.163.com/dy/article/L0H4GQQA0511B8LM.html"
-      },
-      {
-        "title": "Anthropic致信白宫指控同义千问蒸馏Claude",
-        "time": "2026-06-25 15:28",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小爪编辑|王凤枝彭博6月25日报道，Anthropic致信多名美国参议员和白宫官员。信中指控，与阿里巴巴通义千问（Qwen）AI实验室有关联的操作者，大规模、未经授权地访问Claude，意在获取其软件工程和智...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L09F953200097U7T.html"
-      },
-      {
-        "title": "瑞银：约六成企业收紧 AI 开支，DeepSeek 等开源大模型有望受益",
-        "time": "2026-07-01 19:00",
-        "source": "IT家人工智能",
-        "summary": "瑞银调研发现，随着AI账单持续走高，约六成企业已出台措施管控相关开支，词元调用成本成为核心顾虑。行业正迎来温和逆风，OpenAI等厂商将承压，而开源及中国本土模型或受益。分析师认为这是“良性调整阵痛”，下一代芯片有望进一步降低成本。#AI成本##大模型#",
-        "url": "https://www.ithome.com/0/971/289.htm"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "宝洁带菜鸟出海的背后，中国供应链能力加速升级",
-        "time": "2026-07-01 17:31",
-        "source": "网易互联网",
-        "summary": "宝洁带菜鸟出海的背后，中国供应链能力加速升级",
-        "url": "https://www.163.com/dy/article/L0P4LD6H0534A4SC.html"
-      },
-      {
-        "title": "回归祖国29周年，香港欢庆热潮升温",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "回归祖国29周年，香港欢庆热潮升温",
-        "url": "https://news.china.com/domestic/945/20260701/49580794.html"
-      },
-      {
-        "title": "科学“慧”管夯实秋粮丰收根基",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "科学“慧”管夯实秋粮丰收根基",
-        "url": "https://news.china.com/domestic/945/20260701/49580817.html"
-      },
-      {
-        "title": "红色研学 各地开展多样活动迎“七一”",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "红色研学 各地开展多样活动迎“七一”",
-        "url": "https://news.china.com/domestic/945/20260701/49580834.html"
-      },
-      {
-        "title": "因地制宜兴产业 深耕乡土谋振兴",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "因地制宜兴产业 深耕乡土谋振兴",
-        "url": "https://news.china.com/domestic/945/20260701/49580849.html"
-      },
-      {
-        "title": "成渝铁路改造工程江津至铜罐驿段双线通车",
-        "time": "2026-07-01 00:00",
-        "source": "中华国内",
-        "summary": "成渝铁路改造工程江津至铜罐驿段双线通车",
-        "url": "https://news.china.com/domestic/945/20260701/49580865.html"
-      },
-      {
-        "title": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "孙颖莎一日双赛过关 混双女单双线告捷",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49580522.html"
-      },
-      {
-        "title": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "time": "2026-06-30 00:00",
-        "source": "中华国内",
-        "summary": "裸睡遇地震裹被冲下楼 本能逃生记",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49579802.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "5月末银行理财规模超35万亿元 创历史新高",
-        "time": "2026-07-01 09:45",
-        "source": "中国日报财经",
-        "summary": "2026-07-0109:45",
-        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a44716fa310d709c2fbb2e4.html"
-      },
-      {
-        "title": "八部门联合发文 擘画工业互联网2.5万亿产业新图景",
-        "time": "2026-07-01 09:42",
-        "source": "中国日报财经",
-        "summary": "2026-07-0109:42",
-        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a4470cba310d709c2fbb2da.html"
-      },
-      {
-        "title": "A股上半年红盘收官 科创综指上涨近54%",
-        "time": "2026-07-01 09:43",
-        "source": "中国日报财经",
-        "summary": "2026-07-0109:43",
-        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a4470d6a310d709c2fbb2db.html"
-      },
-      {
-        "title": "订单排到8月！中国“降温神器”为何热卖全球？",
-        "time": "2026-07-01 09:46",
-        "source": "中国日报财经",
-        "summary": "2026-07-0109:46",
-        "url": "//caijing.chinadaily.com.cn/a/202607/01/WS6a4471b5a310d709c2fbb2e5.html"
-      },
-      {
-        "title": "中欧贸易投资磋商机制首次会议举行并发表联合声明",
-        "time": "2026-06-30 10:04",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:04",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a4325c9a310d709c2fbae27.html"
-      },
-      {
-        "title": "日元对美元汇率跌至近40年来最低水平",
-        "time": "2026-06-30 10:04",
-        "source": "中国日报财经",
-        "summary": "2026-06-3010:04",
-        "url": "//caijing.chinadaily.com.cn/a/202606/30/WS6a43256fa310d709c2fbae24.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "挪威球迷划船助威时“地震仪动了” 赢球欢腾震动全国",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "挪威球迷划船助威时“地震仪动了” 赢球欢腾震动全国",
-        "url": "https://news.china.com/socialgd/10000169/20260701/49582983.html"
-      },
-      {
-        "title": "美如家2家酒店均被如家起诉 商标侵权争议再起",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "美如家2家酒店均被如家起诉 商标侵权争议再起",
-        "url": "https://news.china.com/socialgd/10000169/20260701/49582863.html"
-      },
-      {
-        "title": "高温之下 中国空调何以热销欧洲？",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "高温之下 中国空调何以热销欧洲？",
-        "url": "https://news.china.com/social/1007/20260701/49582484.html"
-      },
-      {
-        "title": "无人机播撒机器人作业：种地正变得很“酷”",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "无人机播撒机器人作业：种地正变得很“酷”",
-        "url": "https://news.china.com/social/1007/20260701/49582496.html"
-      },
-      {
-        "title": "打着“养生馆”的幌子招揽老年顾客敛财",
-        "time": "2026-07-01 00:00",
-        "source": "中华社会",
-        "summary": "打着“养生馆”的幌子招揽老年顾客敛财",
-        "url": "https://news.china.com/social/1007/20260701/49582507.html"
       }
     ]
   }
