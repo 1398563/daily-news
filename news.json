@@ -1,4 +1,226 @@
 {
+  "2026-10-15": {
+    "宏观政策风向": [
+      {
+        "title": "中国世界灌溉工程遗产总数已达46项",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "中国世界灌溉工程遗产总数已达46项",
+        "url": "https://news.china.com/domestic/945/20261015/49795007.html"
+      },
+      {
+        "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "url": "https://news.china.com/domestic/945/20261015/49795040.html"
+      },
+      {
+        "title": "全国秋粮收获进入高峰期 进度过六成",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "全国秋粮收获进入高峰期 进度过六成",
+        "url": "https://news.china.com/domestic/945/20261015/49795091.html"
+      },
+      {
+        "title": "今年前八个月我国服务贸易出口同比增14.8%",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "今年前八个月我国服务贸易出口同比增14.8%",
+        "url": "https://news.china.com/domestic/945/20261015/49795108.html"
+      },
+      {
+        "title": "老头乐连撞多车司机被当场控制 操作不当引发连锁反应",
+        "time": "2026-10-14 00:00",
+        "source": "中华国内",
+        "summary": "老头乐连撞多车司机被当场控制 操作不当引发连锁反应",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49793875.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Meta发布新款AI大模型：专攻智能体，性能直追Ch",
+        "time": "2026-10-13 07:32",
+        "source": "网易科技",
+        "summary": "Meta发布新款AI大模型：专攻智能体，性能直追Ch",
+        "url": "https://www.163.com/dy/article/L93RNM5T0519QIKK.html"
+      },
+      {
+        "title": "投过宇树，DeepSeek又看上了一家机器人AI公司",
+        "time": "2026-10-13 10:16",
+        "source": "网易IT",
+        "summary": "据彭博社10月12日报道，DeepSeek已同意领投WinverseAI的种子轮融资。这家公司由腾讯前科学家胡瀚创办，成立仅数月，本轮融资总额为数千万美元，投后估值约4亿美元。其他承诺投资的机构包括美团旗下龙珠资本。交易尚未完成，估值和投...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9453UPB00097U7T.html"
+      },
+      {
+        "title": "DeepSeek为何“时神时鬼”？字节测出一个怪毛病",
+        "time": "2026-10-09 15:59",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝问同一道题，仅仅多打几个符号，原本答对的DeepSeek却答错了。这个反常现象，出现在字节跳动Seed团队等研究者9月底公开的一篇预印本论文中。他们用DeepSeek自己公开的代码，给Deep...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8QF59UR00097U7T.html"
+      },
+      {
+        "title": "字节前实习生融资近2亿元！曾因干扰模型训练被",
+        "time": "2026-10-09 08:58",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小小编辑|王凤枝两年前，田柯宇因干扰模型训练被字节跳动解聘，并被起诉索赔800万元。如今，他创办的公司还没有正式产品，就拿到了近3000万美元融资，估值达到2亿美元。据彭博社10月7日报道，投资方包括五源资本...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8PN1SM200097U7T.html"
+      },
+      {
+        "title": "国庆AI圈没闲着！DeepSeek被曝拟融资超800亿元",
+        "time": "2026-10-08 11:04",
+        "source": "网易IT",
+        "summary": "国庆假期，国内AI公司的几笔大动作接连曝光：DeepSeek新一轮融资规模据称将超过800亿元，Kimi母公司月之暗面被曝完成新一轮融资，估值约500亿美元。腾讯则被曝签下约70亿美元的海外算力租约。海外方面，谷歌更新了旗舰模型和图像模型。...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8NBRTVT00097U7T.html"
+      },
+      {
+        "title": "DeepSeek这次开源，想让华为芯片更好用",
+        "time": "2026-09-30 16:08",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝做大模型的DeepSeek，为什么要给国产芯片写软件？9月30日，DeepSeek宣布开放面向昇腾的基础设施组件，帮助开发者编写程序、提高计算效率，让多张芯片协同工作。此前面向英伟达平台开放的...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L83A3OLK00097U7T.html"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "中国世界灌溉工程遗产总数已达46项",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "中国世界灌溉工程遗产总数已达46项",
+        "url": "https://news.china.com/domestic/945/20261015/49795007.html"
+      },
+      {
+        "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "url": "https://news.china.com/domestic/945/20261015/49795040.html"
+      },
+      {
+        "title": "全国秋粮收获进入高峰期 进度过六成",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "全国秋粮收获进入高峰期 进度过六成",
+        "url": "https://news.china.com/domestic/945/20261015/49795091.html"
+      },
+      {
+        "title": "今年前八个月我国服务贸易出口同比增14.8%",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "今年前八个月我国服务贸易出口同比增14.8%",
+        "url": "https://news.china.com/domestic/945/20261015/49795108.html"
+      },
+      {
+        "title": "老头乐连撞多车司机被当场控制 操作不当引发连锁反应",
+        "time": "2026-10-14 00:00",
+        "source": "中华国内",
+        "summary": "老头乐连撞多车司机被当场控制 操作不当引发连锁反应",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49793875.html"
+      },
+      {
+        "title": "男子喝15斤啤酒后晕倒进ICU 挑战赛惹争议",
+        "time": "2026-10-14 00:00",
+        "source": "中华国内",
+        "summary": "男子喝15斤啤酒后晕倒进ICU 挑战赛惹争议",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49793876.html"
+      },
+      {
+        "title": "我国首例绿氨船对船加注在浙江舟山完成",
+        "time": "2026-10-14 00:00",
+        "source": "中华国内",
+        "summary": "我国首例绿氨船对船加注在浙江舟山完成",
+        "url": "https://news.china.com/domestic/945/20261014/49792902.html"
+      },
+      {
+        "title": "一审3人被判死刑！缅北魏家犯罪集团覆灭始末",
+        "time": "2026-10-14 00:00",
+        "source": "中华国内",
+        "summary": "一审3人被判死刑！缅北魏家犯罪集团覆灭始末",
+        "url": "https://news.china.com/domestic/945/20261014/49792929.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "美联储加息靴子落地 私募机构谋划A股“新打法”",
+        "time": "2026-09-23 10:23",
+        "source": "中国日报财经",
+        "summary": "2026-09-2310:23",
+        "url": "//caijing.chinadaily.com.cn/a/202609/23/WS6ab33819e4b09a165c78c0dd.html"
+      },
+      {
+        "title": "国家统计局：9月份居民消费价格同比上涨0.9%",
+        "time": "2026-10-14 11:07",
+        "source": "中国日报财经",
+        "summary": "2026-10-1411:07",
+        "url": "//caijing.chinadaily.com.cn/a/202610/14/WS6acef1ffe4b09a165c78f2c3.html"
+      },
+      {
+        "title": "中国新能源车企在欧洲市场“换挡”前行",
+        "time": "2026-10-14 11:09",
+        "source": "中国日报财经",
+        "summary": "2026-10-1411:09",
+        "url": "//caijing.chinadaily.com.cn/a/202610/14/WS6acef26be4b09a165c78f2c4.html"
+      },
+      {
+        "title": "IMF小幅上调全球增长预期 AI投资支撑经济韧性",
+        "time": "2026-10-14 11:11",
+        "source": "中国日报财经",
+        "summary": "2026-10-1411:11",
+        "url": "//caijing.chinadaily.com.cn/a/202610/14/WS6acef2fae4b09a165c78f2c7.html"
+      },
+      {
+        "title": "积极因素持续积累 A股市场有望迎来修复窗口",
+        "time": "2026-10-14 11:14",
+        "source": "中国日报财经",
+        "summary": "2026-10-1411:14",
+        "url": "//caijing.chinadaily.com.cn/a/202610/14/WS6acef39be4b09a165c78f2cc.html"
+      },
+      {
+        "title": "美国AI支出大幅走高 投资回报兑现压力加大",
+        "time": "2026-10-13 09:45",
+        "source": "中国日报财经",
+        "summary": "美国人工智能（AI）投资正以超高速度扩张，业界预计明年将达到约2万亿美元，超国内生产总值（GDP）比例的5%。在此背景下，市场波动加剧，各方对大型科技公司AI投资回报的担忧升温。2026-10-1309:45",
+        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd8df4e4b09a165c78ee9f.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "LV诉茉莉奶白致负面影响，披露客群降15% LVMH集团首度承认影响",
+        "time": "2026-10-15 00:00",
+        "source": "中华社会",
+        "summary": "LV诉茉莉奶白致负面影响，披露客群降15% LVMH集团首度承认影响",
+        "url": "https://news.china.com/socialgd/10000169/20261015/49794859.html"
+      },
+      {
+        "title": "中方回应“日方不接受访问争议岛屿” 尊重二战成果",
+        "time": "2026-10-14 00:00",
+        "source": "中华社会",
+        "summary": "中方回应“日方不接受访问争议岛屿” 尊重二战成果",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49794712.html"
+      },
+      {
+        "title": "不建议晚上吃的6种食物",
+        "time": "2026-10-14 00:00",
+        "source": "中华社会",
+        "summary": "不建议晚上吃的6种食物",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49794618.html"
+      },
+      {
+        "title": "手撕洗衣凝珠爆裂伤眼上热搜 无“禁止手撕”提示",
+        "time": "2026-10-14 00:00",
+        "source": "中华社会",
+        "summary": "手撕洗衣凝珠爆裂伤眼上热搜 无“禁止手撕”提示",
+        "url": "https://news.china.com/social/1007/20261014/49794149.html"
+      },
+      {
+        "title": "全国秋粮收获进入高峰期 进度过六成",
+        "time": "2026-10-14 00:00",
+        "source": "中华社会",
+        "summary": "全国秋粮收获进入高峰期 进度过六成",
+        "url": "https://news.china.com/social/1007/20261014/49794159.html"
+      }
+    ]
+  },
   "2026-10-14": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "造一台更懂番茄的收获机",
         "url": "https://news.china.com/social/1007/20261013/49790644.html"
-      }
-    ]
-  },
-  "2026-10-12": {
-    "宏观政策风向": [
-      {
-        "title": "郑钦文夺冠后热泪盈眶 中网首位本土女单冠军",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "郑钦文夺冠后热泪盈眶 中网首位本土女单冠军",
-        "url": "https://news.china.com/socialgd/10000169/20261012/49788447.html"
-      },
-      {
-        "title": "国产汽车出海通道+1！“南京—欧洲”新航线开通",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "国产汽车出海通道+1！“南京—欧洲”新航线开通",
-        "url": "https://news.china.com/domestic/945/20261012/49788462.html"
-      },
-      {
-        "title": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
-        "url": "https://news.china.com/domestic/945/20261012/49788494.html"
-      },
-      {
-        "title": "贵州大方：“大地指纹”音乐会点亮古镇夜色",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "贵州大方：“大地指纹”音乐会点亮古镇夜色",
-        "url": "https://news.china.com/domestic/945/20261012/49788563.html"
-      },
-      {
-        "title": "云南丽江：云杉坪秋日草甸美如画",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "云南丽江：云杉坪秋日草甸美如画",
-        "url": "https://news.china.com/domestic/945/20261012/49788581.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "消息称字节、腾讯加速个人AI智能体研发，追赶Me",
-        "time": "2026-10-11 07:54",
-        "source": "网易科技",
-        "summary": "消息称字节、腾讯加速个人AI智能体研发，追赶Me",
-        "url": "https://www.163.com/dy/article/L8UO6RUA0511B8LM.html"
-      },
-      {
-        "title": "外媒：元宇宙在多国封禁字节跳动广告",
-        "time": "2026-10-10 19:18",
-        "source": "网易科技",
-        "summary": "外媒：元宇宙在多国封禁字节跳动广告",
-        "url": "https://www.163.com/dy/article/L8TCU3GH0514BQ68.html"
-      },
-      {
-        "title": "Meta禁止字节跳动广告投放 ,覆盖美加日韩越等7",
-        "time": "2026-10-09 19:30",
-        "source": "网易科技",
-        "summary": "Meta禁止字节跳动广告投放 ,覆盖美加日韩越等7",
-        "url": "https://www.163.com/dy/article/L8QR7ELK051481US.html"
-      },
-      {
-        "title": "Meta于7国禁止字节跳动在其平台投放广告和付费",
-        "time": "2026-10-09 14:59",
-        "source": "网易科技",
-        "summary": "Meta于7国禁止字节跳动在其平台投放广告和付费",
-        "url": "https://www.163.com/dy/article/L8QBNOI60511B8LM.html"
-      },
-      {
-        "title": "AI智谷歌Meta密集发布AI智能体，催化AI应用端落",
-        "time": "2026-10-09 14:21",
-        "source": "网易科技",
-        "summary": "AI智谷歌Meta密集发布AI智能体，催化AI应用端落",
-        "url": "https://www.163.com/dy/article/L8Q9I7OK0550WHYR.html"
-      },
-      {
-        "title": "DeepSeek为何“时神时鬼”？字节测出一个怪毛病",
-        "time": "2026-10-09 15:59",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小扣编辑|王凤枝问同一道题，仅仅多打几个符号，原本答对的DeepSeek却答错了。这个反常现象，出现在字节跳动Seed团队等研究者9月底公开的一篇预印本论文中。他们用DeepSeek自己公开的代码，给Deep...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L8QF59UR00097U7T.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "郑钦文夺冠后热泪盈眶 中网首位本土女单冠军",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "郑钦文夺冠后热泪盈眶 中网首位本土女单冠军",
-        "url": "https://news.china.com/socialgd/10000169/20261012/49788447.html"
-      },
-      {
-        "title": "国产汽车出海通道+1！“南京—欧洲”新航线开通",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "国产汽车出海通道+1！“南京—欧洲”新航线开通",
-        "url": "https://news.china.com/domestic/945/20261012/49788462.html"
-      },
-      {
-        "title": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
-        "url": "https://news.china.com/domestic/945/20261012/49788494.html"
-      },
-      {
-        "title": "贵州大方：“大地指纹”音乐会点亮古镇夜色",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "贵州大方：“大地指纹”音乐会点亮古镇夜色",
-        "url": "https://news.china.com/domestic/945/20261012/49788563.html"
-      },
-      {
-        "title": "云南丽江：云杉坪秋日草甸美如画",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "云南丽江：云杉坪秋日草甸美如画",
-        "url": "https://news.china.com/domestic/945/20261012/49788581.html"
-      },
-      {
-        "title": "首批通关旅客进入皇岗口岸查验区域 现场直击",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "首批通关旅客进入皇岗口岸查验区域 现场直击",
-        "url": "https://news.china.com/domestic/945/20261012/49788319.html"
-      },
-      {
-        "title": "从原子核到宇宙深处，中国基础研究捷报频传！",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "从原子核到宇宙深处，中国基础研究捷报频传！",
-        "url": "https://news.china.com/domestic/945/20261012/49788390.html"
-      },
-      {
-        "title": "接诉即办，再进一步！12345热线如何回应民声",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "接诉即办，再进一步！12345热线如何回应民声",
-        "url": "https://news.china.com/domestic/945/20261012/49788406.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "美联储加息靴子落地 私募机构谋划A股“新打法”",
-        "time": "2026-09-23 10:23",
-        "source": "中国日报财经",
-        "summary": "2026-09-2310:23",
-        "url": "//caijing.chinadaily.com.cn/a/202609/23/WS6ab33819e4b09a165c78c0dd.html"
-      },
-      {
-        "title": "C财经｜“大国重器”彰显科技实力，你了解多少？",
-        "time": "2026-09-28 09:00",
-        "source": "中国日报财经",
-        "summary": "从浩瀚苍穹到万米深海，从军事科技到民生保障，硬核科技创新的浪潮奔涌向前。国庆之际，让我们一同细数在各领域熠熠生辉的大国重器，一睹它们的发展实绩。2026-09-2809:00",
-        "url": "//caijing.chinadaily.com.cn/a/202609/28/WS6ab9bc1ae4b09a165c78cde0.html"
-      },
-      {
-        "title": "C财经｜第48届世赛：在一场“手搓”盛宴里品匠心",
-        "time": "2026-09-29 16:58",
-        "source": "中国日报财经",
-        "summary": "正是这一份份渗透到工作和生活的技能和匠心，才雕琢出温暖而有品质的生活，拥有了这份宝贵的体验之后，即便站在科技前沿，又有谁会质疑匠心的分量？2026-09-2916:58",
-        "url": "//caijing.chinadaily.com.cn/a/202609/29/WS6abb7d9ce4b09a165c78d752.html"
-      },
-      {
-        "title": "食品安全法修订改了啥？回应了哪些民生关切？一文了解",
-        "time": "2026-10-12 09:32",
-        "source": "中国日报财经",
-        "summary": "2026-10-1209:32",
-        "url": "//caijing.chinadaily.com.cn/a/202610/12/WS6acc38d9e4b09a165c78eb5d.html"
-      },
-      {
-        "title": "年内A股公司回购金额超1300亿元 同比增近两成",
-        "time": "2026-10-12 09:32",
-        "source": "中国日报财经",
-        "summary": "2026-10-1209:32",
-        "url": "//caijing.chinadaily.com.cn/a/202610/12/WS6acc3951e4b09a165c78eb5f.html"
-      },
-      {
-        "title": "中国汽车工业协会：严守安全底线，规范创新设计",
-        "time": "2026-10-12 09:37",
-        "source": "中国日报财经",
-        "summary": "2026-10-1209:37",
-        "url": "//caijing.chinadaily.com.cn/a/202610/12/WS6acc39d3e4b09a165c78eb62.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "开工一年即烂尾 农业大棚竟成骗资工具",
-        "time": "2026-10-12 00:00",
-        "source": "中华社会",
-        "summary": "开工一年即烂尾 农业大棚竟成骗资工具",
-        "url": "https://news.china.com/social/1007/20261012/49788432.html"
-      },
-      {
-        "title": "超强厄尔尼诺到底有多强？不是暖冬那么简单",
-        "time": "2026-10-11 00:00",
-        "source": "中华社会",
-        "summary": "超强厄尔尼诺到底有多强？不是暖冬那么简单",
-        "url": "https://news.china.com/social/1007/20261011/49787924.html"
-      },
-      {
-        "title": "办“社保卡金卡”能提高报销待遇？警惕诈骗新话术",
-        "time": "2026-10-11 00:00",
-        "source": "中华社会",
-        "summary": "办“社保卡金卡”能提高报销待遇？警惕诈骗新话术",
-        "url": "https://news.china.com/social/1007/20261011/49787935.html"
-      },
-      {
-        "title": "“雪山之王”幼崽落单 青海湖管护员连夜救助",
-        "time": "2026-10-11 00:00",
-        "source": "中华社会",
-        "summary": "“雪山之王”幼崽落单 青海湖管护员连夜救助",
-        "url": "https://news.china.com/social/1007/20261011/49787945.html"
-      },
-      {
-        "title": "景区商场AI拍照机暗藏哪些安全风险？",
-        "time": "2026-10-11 00:00",
-        "source": "中华社会",
-        "summary": "景区商场AI拍照机暗藏哪些安全风险？",
-        "url": "https://news.china.com/social/1007/20261011/49787955.html"
       }
     ]
   }
