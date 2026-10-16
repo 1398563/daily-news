@@ -1,4 +1,226 @@
 {
+  "2026-10-16": {
+    "宏观政策风向": [
+      {
+        "title": "我国清洁能源装备加速“出海” 提速全球能源转型",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "我国清洁能源装备加速“出海” 提速全球能源转型",
+        "url": "https://news.china.com/domestic/945/20261016/49797228.html"
+      },
+      {
+        "title": "全国粮食标准仓房完好仓容达7.3亿吨",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "全国粮食标准仓房完好仓容达7.3亿吨",
+        "url": "https://news.china.com/domestic/945/20261016/49797241.html"
+      },
+      {
+        "title": "我国外贸增势强劲 “新三样”产品出口增长43.6%",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "我国外贸增势强劲 “新三样”产品出口增长43.6%",
+        "url": "https://news.china.com/domestic/945/20261016/49797290.html"
+      },
+      {
+        "title": "保障如脉续征途：军队战士从夹金雪山到联勤疆场",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "保障如脉续征途：军队战士从夹金雪山到联勤疆场",
+        "url": "https://news.china.com/domestic/945/20261016/49797313.html"
+      },
+      {
+        "title": "多项便利服务上线 “老广交”提前探厂抢下订单",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "多项便利服务上线 “老广交”提前探厂抢下订单",
+        "url": "https://news.china.com/domestic/945/20261016/49797335.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "Meta发布美国最强开源大模型 “仅用”两台苹果",
+        "time": "2026-10-16 03:06",
+        "source": "网易科技",
+        "summary": "Meta发布美国最强开源大模型 “仅用”两台苹果",
+        "url": "https://www.163.com/dy/article/L9B3M88P05198CJN.html"
+      },
+      {
+        "title": "投过宇树，DeepSeek又看上了一家机器人AI公司",
+        "time": "2026-10-13 10:16",
+        "source": "网易IT",
+        "summary": "据彭博社10月12日报道，DeepSeek已同意领投WinverseAI的种子轮融资。这家公司由腾讯前科学家胡瀚创办，成立仅数月，本轮融资总额为数千万美元，投后估值约4亿美元。其他承诺投资的机构包括美团旗下龙珠资本。交易尚未完成，估值和投...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9453UPB00097U7T.html"
+      },
+      {
+        "title": "DeepSeek为何“时神时鬼”？字节测出一个怪毛病",
+        "time": "2026-10-09 15:59",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝问同一道题，仅仅多打几个符号，原本答对的DeepSeek却答错了。这个反常现象，出现在字节跳动Seed团队等研究者9月底公开的一篇预印本论文中。他们用DeepSeek自己公开的代码，给Deep...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8QF59UR00097U7T.html"
+      },
+      {
+        "title": "字节前实习生融资近2亿元！曾因干扰模型训练被",
+        "time": "2026-10-09 08:58",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小小编辑|王凤枝两年前，田柯宇因干扰模型训练被字节跳动解聘，并被起诉索赔800万元。如今，他创办的公司还没有正式产品，就拿到了近3000万美元融资，估值达到2亿美元。据彭博社10月7日报道，投资方包括五源资本...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8PN1SM200097U7T.html"
+      },
+      {
+        "title": "国庆AI圈没闲着！DeepSeek被曝拟融资超800亿元",
+        "time": "2026-10-08 11:04",
+        "source": "网易IT",
+        "summary": "国庆假期，国内AI公司的几笔大动作接连曝光：DeepSeek新一轮融资规模据称将超过800亿元，Kimi母公司月之暗面被曝完成新一轮融资，估值约500亿美元。腾讯则被曝签下约70亿美元的海外算力租约。海外方面，谷歌更新了旗舰模型和图像模型。...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L8NBRTVT00097U7T.html"
+      },
+      {
+        "title": "DeepSeek这次开源，想让华为芯片更好用",
+        "time": "2026-09-30 16:08",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝做大模型的DeepSeek，为什么要给国产芯片写软件？9月30日，DeepSeek宣布开放面向昇腾的基础设施组件，帮助开发者编写程序、提高计算效率，让多张芯片协同工作。此前面向英伟达平台开放的...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L83A3OLK00097U7T.html"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "我国清洁能源装备加速“出海” 提速全球能源转型",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "我国清洁能源装备加速“出海” 提速全球能源转型",
+        "url": "https://news.china.com/domestic/945/20261016/49797228.html"
+      },
+      {
+        "title": "全国粮食标准仓房完好仓容达7.3亿吨",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "全国粮食标准仓房完好仓容达7.3亿吨",
+        "url": "https://news.china.com/domestic/945/20261016/49797241.html"
+      },
+      {
+        "title": "我国外贸增势强劲 “新三样”产品出口增长43.6%",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "我国外贸增势强劲 “新三样”产品出口增长43.6%",
+        "url": "https://news.china.com/domestic/945/20261016/49797290.html"
+      },
+      {
+        "title": "保障如脉续征途：军队战士从夹金雪山到联勤疆场",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "保障如脉续征途：军队战士从夹金雪山到联勤疆场",
+        "url": "https://news.china.com/domestic/945/20261016/49797313.html"
+      },
+      {
+        "title": "多项便利服务上线 “老广交”提前探厂抢下订单",
+        "time": "2026-10-16 00:00",
+        "source": "中华国内",
+        "summary": "多项便利服务上线 “老广交”提前探厂抢下订单",
+        "url": "https://news.china.com/domestic/945/20261016/49797335.html"
+      },
+      {
+        "title": "锚定航程 向建成健康中国的目标扎实迈进",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "锚定航程 向建成健康中国的目标扎实迈进",
+        "url": "https://news.china.com/domestic/945/20261015/49795134.html"
+      },
+      {
+        "title": "中国世界灌溉工程遗产总数已达46项",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "中国世界灌溉工程遗产总数已达46项",
+        "url": "https://news.china.com/domestic/945/20261015/49795007.html"
+      },
+      {
+        "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "time": "2026-10-15 00:00",
+        "source": "中华国内",
+        "summary": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "url": "https://news.china.com/domestic/945/20261015/49795040.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "美联储加息靴子落地 私募机构谋划A股“新打法”",
+        "time": "2026-09-23 10:23",
+        "source": "中国日报财经",
+        "summary": "2026-09-2310:23",
+        "url": "//caijing.chinadaily.com.cn/a/202609/23/WS6ab33819e4b09a165c78c0dd.html"
+      },
+      {
+        "title": "俄总统代表：未来几天将签署首批对美柴油供应合同",
+        "time": "2026-10-15 09:56",
+        "source": "中国日报财经",
+        "summary": "2026-10-1509:56",
+        "url": "//caijing.chinadaily.com.cn/a/202610/15/WS6ad03314e4b09a165c78f54d.html"
+      },
+      {
+        "title": "中国新能源车在欧洲受青睐 “反向合资”成合作新趋势",
+        "time": "2026-10-15 10:02",
+        "source": "中国日报财经",
+        "summary": "2026-10-1510:02",
+        "url": "//caijing.chinadaily.com.cn/a/202610/15/WS6ad03453e4b09a165c78f557.html"
+      },
+      {
+        "title": "加大住房消费支持力度 多地落实住房公积金新政",
+        "time": "2026-10-15 10:03",
+        "source": "中国日报财经",
+        "summary": "2026-10-1510:03",
+        "url": "//caijing.chinadaily.com.cn/a/202610/15/WS6ad03495e4b09a165c78f569.html"
+      },
+      {
+        "title": "前三季度社会融资规模增量累计为27.46万亿元",
+        "time": "2026-10-15 09:52",
+        "source": "中国日报财经",
+        "summary": "2026-10-1509:52",
+        "url": "//caijing.chinadaily.com.cn/a/202610/15/WS6ad03230e4b09a165c78f546.html"
+      },
+      {
+        "title": "国家统计局：9月份居民消费价格同比上涨0.9%",
+        "time": "2026-10-14 11:07",
+        "source": "中国日报财经",
+        "summary": "2026-10-1411:07",
+        "url": "//caijing.chinadaily.com.cn/a/202610/14/WS6acef1ffe4b09a165c78f2c3.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "我国首个全链条绿色低碳乙烯工程全面投入商业运营",
+        "time": "2026-10-16 00:00",
+        "source": "中华社会",
+        "summary": "我国首个全链条绿色低碳乙烯工程全面投入商业运营",
+        "url": "https://news.china.com/social/1007/20261016/49797367.html"
+      },
+      {
+        "title": "同日合龙！我国两座大桥迎来重大突破",
+        "time": "2026-10-16 00:00",
+        "source": "中华社会",
+        "summary": "同日合龙！我国两座大桥迎来重大突破",
+        "url": "https://news.china.com/social/1007/20261016/49797388.html"
+      },
+      {
+        "title": "冷空气来了 北方大部气温将刷新下半年来新低",
+        "time": "2026-10-16 00:00",
+        "source": "中华社会",
+        "summary": "冷空气来了 北方大部气温将刷新下半年来新低",
+        "url": "https://news.china.com/social/1007/20261016/49797440.html"
+      },
+      {
+        "title": "国铁广州局五年累计到发旅客超52.1亿人次",
+        "time": "2026-10-16 00:00",
+        "source": "中华社会",
+        "summary": "国铁广州局五年累计到发旅客超52.1亿人次",
+        "url": "https://news.china.com/social/1007/20261016/49797456.html"
+      },
+      {
+        "title": "亚洲科技股崩盘正演变成全面恐慌吗 市场分化下的筹码与逻辑",
+        "time": "2026-10-15 00:00",
+        "source": "中华社会",
+        "summary": "亚洲科技股崩盘正演变成全面恐慌吗 市场分化下的筹码与逻辑",
+        "url": "https://news.china.com/socialgd/10000169/20261015/49797013.html"
+      }
+    ]
+  },
   "2026-10-15": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "老师跟耻辱合影事件仍未公布调查结果 调查拖延引质疑",
         "url": "https://news.china.com/socialgd/10000169/20261014/49793066.html"
-      }
-    ]
-  },
-  "2026-10-13": {
-    "宏观政策风向": [
-      {
-        "title": "西渝高铁缪家梁特大桥顺利合龙",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "西渝高铁缪家梁特大桥顺利合龙",
-        "url": "https://news.china.com/domestic/945/20261013/49791035.html"
-      },
-      {
-        "title": "浙江玉环：秋捕归来",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "浙江玉环：秋捕归来",
-        "url": "https://news.china.com/domestic/945/20261013/49791054.html"
-      },
-      {
-        "title": "我国部署“十五五”铁路科技创新重点任务",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "我国部署“十五五”铁路科技创新重点任务",
-        "url": "https://news.china.com/domestic/945/20261013/49790551.html"
-      },
-      {
-        "title": "第十届中国国际全印展在上海开幕",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "第十届中国国际全印展在上海开幕",
-        "url": "https://news.china.com/domestic/945/20261013/49790563.html"
-      },
-      {
-        "title": "商务部回应中欧混动汽车、电动汽车磋商共识",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "商务部回应中欧混动汽车、电动汽车磋商共识",
-        "url": "https://news.china.com/domestic/945/20261013/49790575.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "Meta发布新款AI大模型：专攻智能体，性能直追Ch",
-        "time": "2026-10-13 07:32",
-        "source": "网易科技",
-        "summary": "Meta发布新款AI大模型：专攻智能体，性能直追Ch",
-        "url": "https://www.163.com/dy/article/L93RNM5T0519QIKK.html"
-      },
-      {
-        "title": "消息称字节、腾讯加速个人AI智能体研发，追赶Me",
-        "time": "2026-10-11 07:54",
-        "source": "网易科技",
-        "summary": "消息称字节、腾讯加速个人AI智能体研发，追赶Me",
-        "url": "https://www.163.com/dy/article/L8UO6RUA0511B8LM.html"
-      },
-      {
-        "title": "外媒：元宇宙在多国封禁字节跳动广告",
-        "time": "2026-10-10 19:18",
-        "source": "网易科技",
-        "summary": "外媒：元宇宙在多国封禁字节跳动广告",
-        "url": "https://www.163.com/dy/article/L8TCU3GH0514BQ68.html"
-      },
-      {
-        "title": "Meta禁止字节跳动广告投放 ,覆盖美加日韩越等7",
-        "time": "2026-10-09 19:30",
-        "source": "网易科技",
-        "summary": "Meta禁止字节跳动广告投放 ,覆盖美加日韩越等7",
-        "url": "https://www.163.com/dy/article/L8QR7ELK051481US.html"
-      },
-      {
-        "title": "Meta于7国禁止字节跳动在其平台投放广告和付费",
-        "time": "2026-10-09 14:59",
-        "source": "网易科技",
-        "summary": "Meta于7国禁止字节跳动在其平台投放广告和付费",
-        "url": "https://www.163.com/dy/article/L8QBNOI60511B8LM.html"
-      },
-      {
-        "title": "AI智谷歌Meta密集发布AI智能体，催化AI应用端落",
-        "time": "2026-10-09 14:21",
-        "source": "网易科技",
-        "summary": "AI智谷歌Meta密集发布AI智能体，催化AI应用端落",
-        "url": "https://www.163.com/dy/article/L8Q9I7OK0550WHYR.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "西渝高铁缪家梁特大桥顺利合龙",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "西渝高铁缪家梁特大桥顺利合龙",
-        "url": "https://news.china.com/domestic/945/20261013/49791035.html"
-      },
-      {
-        "title": "浙江玉环：秋捕归来",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "浙江玉环：秋捕归来",
-        "url": "https://news.china.com/domestic/945/20261013/49791054.html"
-      },
-      {
-        "title": "我国部署“十五五”铁路科技创新重点任务",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "我国部署“十五五”铁路科技创新重点任务",
-        "url": "https://news.china.com/domestic/945/20261013/49790551.html"
-      },
-      {
-        "title": "第十届中国国际全印展在上海开幕",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "第十届中国国际全印展在上海开幕",
-        "url": "https://news.china.com/domestic/945/20261013/49790563.html"
-      },
-      {
-        "title": "商务部回应中欧混动汽车、电动汽车磋商共识",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "商务部回应中欧混动汽车、电动汽车磋商共识",
-        "url": "https://news.china.com/domestic/945/20261013/49790575.html"
-      },
-      {
-        "title": "我国牵头推动研制形成首个国际职业教育标准",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "我国牵头推动研制形成首个国际职业教育标准",
-        "url": "https://news.china.com/domestic/945/20261013/49790587.html"
-      },
-      {
-        "title": "全国多地同步开展罚没走私烟草集中销毁活动",
-        "time": "2026-10-13 00:00",
-        "source": "中华国内",
-        "summary": "全国多地同步开展罚没走私烟草集中销毁活动",
-        "url": "https://news.china.com/domestic/945/20261013/49790599.html"
-      },
-      {
-        "title": "王秉玺和他的帮扶“亲戚”",
-        "time": "2026-10-12 00:00",
-        "source": "中华国内",
-        "summary": "王秉玺和他的帮扶“亲戚”",
-        "url": "https://news.china.com/domestic/945/20261012/49790280.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "美联储加息靴子落地 私募机构谋划A股“新打法”",
-        "time": "2026-09-23 10:23",
-        "source": "中国日报财经",
-        "summary": "2026-09-2310:23",
-        "url": "//caijing.chinadaily.com.cn/a/202609/23/WS6ab33819e4b09a165c78c0dd.html"
-      },
-      {
-        "title": "美国AI支出大幅走高 投资回报兑现压力加大",
-        "time": "2026-10-13 09:45",
-        "source": "中国日报财经",
-        "summary": "美国人工智能（AI）投资正以超高速度扩张，业界预计明年将达到约2万亿美元，超国内生产总值（GDP）比例的5%。在此背景下，市场波动加剧，各方对大型科技公司AI投资回报的担忧升温。2026-10-1309:45",
-        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd8df4e4b09a165c78ee9f.html"
-      },
-      {
-        "title": "金融消费投资维权，这些细节请留意",
-        "time": "2026-10-13 09:48",
-        "source": "中国日报财经",
-        "summary": "买了理财，结果大亏，一定由买者自负吗？贷款还不上时，才发现有高额违约息费条款，这笔钱该付吗？买了重疾险理赔却遭拒，理赔门槛怎么判定？……2026-10-1309:48",
-        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd8dfde4b09a165c78eea0.html"
-      },
-      {
-        "title": "读万家账本，寻经济潮汐之锚——最新诺奖成果解读",
-        "time": "2026-10-13 09:23",
-        "source": "中国日报财经",
-        "summary": "2026-10-1309:23",
-        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd8909e4b09a165c78ee8d.html"
-      },
-      {
-        "title": "明年4月起实施！新能源车增值税出口退税率下调至9%",
-        "time": "2026-10-13 09:25",
-        "source": "中国日报财经",
-        "summary": "2026-10-1309:25",
-        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd89ace4b09a165c78ee8f.html"
-      },
-      {
-        "title": "“硅谷要等几周，深圳只要一天！”又一中国造，全球爆单",
-        "time": "2026-10-13 09:27",
-        "source": "中国日报财经",
-        "summary": "2026-10-1309:27",
-        "url": "//caijing.chinadaily.com.cn/a/202610/13/WS6acd8a3fe4b09a165c78ee94.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "摩天轮未关舱门游客惊险坐完全程 公园回应",
-        "time": "2026-10-13 00:00",
-        "source": "中华社会",
-        "summary": "摩天轮未关舱门游客惊险坐完全程 公园回应",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791385.html"
-      },
-      {
-        "title": "“南拳妈妈”成员帕劳潜水时遇袭 水下冲突引关注",
-        "time": "2026-10-13 00:00",
-        "source": "中华社会",
-        "summary": "“南拳妈妈”成员帕劳潜水时遇袭 水下冲突引关注",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791392.html"
-      },
-      {
-        "title": "24岁重庆男子云南散心后失联一月有余，家属：警方已立案，最后轨迹疑出现在缅甸佤邦",
-        "time": "2026-10-13 00:00",
-        "source": "中华社会",
-        "summary": "24岁重庆男子云南散心后失联一月有余，家属：警方已立案，最后轨迹疑出现在缅甸佤邦",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791395.html"
-      },
-      {
-        "title": "《绝命毒师》“老白儿子”去世 真实人生戛然而止",
-        "time": "2026-10-13 00:00",
-        "source": "中华社会",
-        "summary": "《绝命毒师》“老白儿子”去世 真实人生戛然而止",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791396.html"
-      },
-      {
-        "title": "造一台更懂番茄的收获机",
-        "time": "2026-10-13 00:00",
-        "source": "中华社会",
-        "summary": "造一台更懂番茄的收获机",
-        "url": "https://news.china.com/social/1007/20261013/49790644.html"
       }
     ]
   }
