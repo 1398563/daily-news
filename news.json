@@ -1,4 +1,226 @@
 {
+  "2026-10-31": {
+    "宏观政策风向": [
+      {
+        "title": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "url": "https://news.china.com/domestic/945/20261031/49829907.html"
+      },
+      {
+        "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "url": "https://news.china.com/domestic/945/20261031/49829923.html"
+      },
+      {
+        "title": "新疆阜康10万千瓦熔盐塔式光热发电项目并网",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "新疆阜康10万千瓦熔盐塔式光热发电项目并网",
+        "url": "https://news.china.com/domestic/945/20261031/49829940.html"
+      },
+      {
+        "title": "前三季度电网企业固定资产投资超过6000亿元",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "前三季度电网企业固定资产投资超过6000亿元",
+        "url": "https://news.china.com/domestic/945/20261031/49829953.html"
+      },
+      {
+        "title": "多个领域捷报频传！本周我国硬核成果持续上新",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "多个领域捷报频传！本周我国硬核成果持续上新",
+        "url": "https://news.china.com/domestic/945/20261031/49829893.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "苦等两年！国行苹果AI下周开测，12月推出",
+        "time": "2026-10-31 09:25",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝等了两年多，国行iPhone终于要用上苹果AI了。10月31日，苹果宣布，中国区Apple智能将于11月4日起随最新iOS开发者测试版开放测试，并于12月随iOS27.3正式推出。阿里巴巴的...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAIDBJR200097U7T.html"
+      },
+      {
+        "title": "DeepSeek被曝融资1055亿元，美团、小红书等参投",
+        "time": "2026-10-30 11:15",
+        "source": "网易IT",
+        "summary": "10月30日消息，据TheInformation援引两名直接了解情况的人士报道，DeepSeek第二轮融资规模达到1055亿元人民币，近30个投资方参与其中。报道给出的公司估值为6155亿元，未注明投前或投后口径。除了继续加码的腾讯、宁德...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAG1886P00097U7T.html"
+      },
+      {
+        "title": "XHEART正式发布大模型芯片X7 Ultra，大模型算力",
+        "time": "2026-10-29 15:53",
+        "source": "网易IT",
+        "summary": "10月29日消息，XHEART新芯航途今日正式发布大模型芯片X7Ultra，大模型算力达到700TOPS。XHEART新芯航途CEO李宗霖表示，该芯片以“大模型定义芯片”为核心理念，从真实量产模型需求出发设计芯片架构。据其介绍，X7U...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LADUOOVV00097U7T.html"
+      },
+      {
+        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
+        "time": "2026-10-22 14:49",
+        "source": "网易IT",
+        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
+      },
+      {
+        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
+        "time": "2026-10-22 08:56",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
+      },
+      {
+        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
+        "time": "2026-10-21 11:50",
+        "source": "网易IT",
+        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "url": "https://news.china.com/domestic/945/20261031/49829907.html"
+      },
+      {
+        "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "url": "https://news.china.com/domestic/945/20261031/49829923.html"
+      },
+      {
+        "title": "新疆阜康10万千瓦熔盐塔式光热发电项目并网",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "新疆阜康10万千瓦熔盐塔式光热发电项目并网",
+        "url": "https://news.china.com/domestic/945/20261031/49829940.html"
+      },
+      {
+        "title": "前三季度电网企业固定资产投资超过6000亿元",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "前三季度电网企业固定资产投资超过6000亿元",
+        "url": "https://news.china.com/domestic/945/20261031/49829953.html"
+      },
+      {
+        "title": "多个领域捷报频传！本周我国硬核成果持续上新",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "多个领域捷报频传！本周我国硬核成果持续上新",
+        "url": "https://news.china.com/domestic/945/20261031/49829893.html"
+      },
+      {
+        "title": "国产大飞机南航C919首次在大湾区执飞SAF航班",
+        "time": "2026-10-30 00:00",
+        "source": "中华国内",
+        "summary": "国产大飞机南航C919首次在大湾区执飞SAF航班",
+        "url": "https://news.china.com/domestic/945/20261030/49829029.html"
+      },
+      {
+        "title": "海南自贸港再迎政策支持 16条举措助力发展→",
+        "time": "2026-10-30 00:00",
+        "source": "中华国内",
+        "summary": "海南自贸港再迎政策支持 16条举措助力发展→",
+        "url": "https://news.china.com/domestic/945/20261030/49828611.html"
+      },
+      {
+        "title": "11月起，这些新规将影响你我生活",
+        "time": "2026-10-30 00:00",
+        "source": "中华国内",
+        "summary": "11月起，这些新规将影响你我生活",
+        "url": "https://news.china.com/domestic/945/20261030/49827421.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+        "time": "2026-10-30 08:46",
+        "source": "中国日报财经",
+        "summary": "2026-10-3008:46",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ecaae4b09a165c79274c.html"
+      },
+      {
+        "title": "海南自贸港跨境贸易投资便利化水平持续提升",
+        "time": "2026-10-30 09:05",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:05",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ed5ce4b09a165c792750.html"
+      },
+      {
+        "title": "欧洲央行维持三大关键利率不变",
+        "time": "2026-10-30 09:06",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:06",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ef0be4b09a165c792755.html"
+      },
+      {
+        "title": "11月起，这些新规将影响你我生活",
+        "time": "2026-10-30 09:13",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:13",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3efb1e4b09a165c792757.html"
+      },
+      {
+        "title": "8000亿元新型政策性金融工具投放完成",
+        "time": "2026-10-29 10:32",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:32",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b08fe4b09a165c792380.html"
+      },
+      {
+        "title": "219家北交所公司三季报亮相 逾七成实现营收同比增长",
+        "time": "2026-10-29 10:33",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:33",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b093e4b09a165c792381.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
+        "time": "2026-10-31 00:00",
+        "source": "中华社会",
+        "summary": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
+        "url": "https://news.china.com/social/1007/20261031/49829978.html"
+      },
+      {
+        "title": "营收超8.5万亿元！有色金属行业，最新成绩单来了",
+        "time": "2026-10-31 00:00",
+        "source": "中华社会",
+        "summary": "营收超8.5万亿元！有色金属行业，最新成绩单来了",
+        "url": "https://news.china.com/social/1007/20261031/49829991.html"
+      },
+      {
+        "title": "事关大额存单，多家外资银行密集上架→",
+        "time": "2026-10-31 00:00",
+        "source": "中华社会",
+        "summary": "事关大额存单，多家外资银行密集上架→",
+        "url": "https://news.china.com/social/1007/20261031/49830002.html"
+      },
+      {
+        "title": "水法修订草案三审稿新增鼓励公众参与内容",
+        "time": "2026-10-31 00:00",
+        "source": "中华社会",
+        "summary": "水法修订草案三审稿新增鼓励公众参与内容",
+        "url": "https://news.china.com/social/1007/20261031/49830012.html"
+      },
+      {
+        "title": "超1.5亿海外用户在看！中国爆款AI漫剧“刷屏”",
+        "time": "2026-10-31 00:00",
+        "source": "中华社会",
+        "summary": "超1.5亿海外用户在看！中国爆款AI漫剧“刷屏”",
+        "url": "https://news.china.com/social/1007/20261031/49829882.html"
+      }
+    ]
+  },
   "2026-10-30": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "人民日报:这部日剧公然挑战人类良知 颠倒黑白剧情引发愤慨",
         "url": "https://news.china.com/socialgd/10000169/20261029/49824970.html"
-      }
-    ]
-  },
-  "2026-10-28": {
-    "宏观政策风向": [
-      {
-        "title": "今年前三季度中部地区进出口3.43万亿元",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "今年前三季度中部地区进出口3.43万亿元",
-        "url": "https://news.china.com/domestic/945/20261028/49822665.html"
-      },
-      {
-        "title": "1至9月份全国规上工业企业利润增长15.5%",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "1至9月份全国规上工业企业利润增长15.5%",
-        "url": "https://news.china.com/domestic/945/20261028/49822705.html"
-      },
-      {
-        "title": "第140届广交会第二期线下展今日闭展",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "第140届广交会第二期线下展今日闭展",
-        "url": "https://news.china.com/domestic/945/20261028/49822565.html"
-      },
-      {
-        "title": "我国工业降碳水平持续提升",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "我国工业降碳水平持续提升",
-        "url": "https://news.china.com/domestic/945/20261028/49822583.html"
-      },
-      {
-        "title": "从前三季度用电量看经济发展新动能",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "从前三季度用电量看经济发展新动能",
-        "url": "https://news.china.com/domestic/945/20261028/49822623.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
-        "time": "2026-10-22 14:49",
-        "source": "网易IT",
-        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
-      },
-      {
-        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
-        "time": "2026-10-22 08:56",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
-      },
-      {
-        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
-        "time": "2026-10-21 11:50",
-        "source": "网易IT",
-        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
-      },
-      {
-        "title": "投过宇树，DeepSeek又看上了一家机器人AI公司",
-        "time": "2026-10-13 10:16",
-        "source": "网易IT",
-        "summary": "据彭博社10月12日报道，DeepSeek已同意领投WinverseAI的种子轮融资。这家公司由腾讯前科学家胡瀚创办，成立仅数月，本轮融资总额为数千万美元，投后估值约4亿美元。其他承诺投资的机构包括美团旗下龙珠资本。交易尚未完成，估值和投...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9453UPB00097U7T.html"
-      },
-      {
-        "title": "AI早报 | OpenAI推出GPT-6.1 Terra；英伟达与Me",
-        "time": "2026-10-28 08:16",
-        "source": "网易科技",
-        "summary": "AI早报 | OpenAI推出GPT-6.1 Terra；英伟达与Me",
-        "url": "https://www.163.com/dy/article/LAAI6LFQ0534A4SC.html"
-      },
-      {
-        "title": "Meta AI负责人罗希特·帕特尔离职创业，打造微",
-        "time": "2026-10-27 23:45",
-        "source": "网易科技",
-        "summary": "Meta AI负责人罗希特·帕特尔离职创业，打造微",
-        "url": "https://www.163.com/dy/article/LA9KV5PP0511B8LM.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "今年前三季度中部地区进出口3.43万亿元",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "今年前三季度中部地区进出口3.43万亿元",
-        "url": "https://news.china.com/domestic/945/20261028/49822665.html"
-      },
-      {
-        "title": "1至9月份全国规上工业企业利润增长15.5%",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "1至9月份全国规上工业企业利润增长15.5%",
-        "url": "https://news.china.com/domestic/945/20261028/49822705.html"
-      },
-      {
-        "title": "第140届广交会第二期线下展今日闭展",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "第140届广交会第二期线下展今日闭展",
-        "url": "https://news.china.com/domestic/945/20261028/49822565.html"
-      },
-      {
-        "title": "我国工业降碳水平持续提升",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "我国工业降碳水平持续提升",
-        "url": "https://news.china.com/domestic/945/20261028/49822583.html"
-      },
-      {
-        "title": "从前三季度用电量看经济发展新动能",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "从前三季度用电量看经济发展新动能",
-        "url": "https://news.china.com/domestic/945/20261028/49822623.html"
-      },
-      {
-        "title": "老干妈参保人数连续4年下滑 老牌国货遇挑战",
-        "time": "2026-10-27 00:00",
-        "source": "中华国内",
-        "summary": "老干妈参保人数连续4年下滑 老牌国货遇挑战",
-        "url": "https://news.china.com/socialgd/10000169/20261027/49820553.html"
-      },
-      {
-        "title": "六城市将开展数字家庭建设",
-        "time": "2026-10-27 00:00",
-        "source": "中华国内",
-        "summary": "六城市将开展数字家庭建设",
-        "url": "https://news.china.com/domestic/945/20261027/49819821.html"
-      },
-      {
-        "title": "土地里“长”出文化之美（文艺赋美乡村）",
-        "time": "2026-10-27 00:00",
-        "source": "中华国内",
-        "summary": "土地里“长”出文化之美（文艺赋美乡村）",
-        "url": "https://news.china.com/domestic/945/20261027/49819836.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "史上最大IPO募资加码AI 北美科技巨头“狂飙”资本开支",
-        "time": "2026-10-28 09:16",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:16",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14d2de4b09a165c791f09.html"
-      },
-      {
-        "title": "公募基金三季报披露完毕 债券基金规模创历史新高",
-        "time": "2026-10-28 09:19",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:19",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14dece4b09a165c791f0b.html"
-      },
-      {
-        "title": "迎战“双11”快递高峰 AI加速渗透物流业",
-        "time": "2026-10-28 09:25",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:25",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14f16e4b09a165c791f1d.html"
-      },
-      {
-        "title": "多省推出“十五五”就业规划 力促产业就业双向奔赴",
-        "time": "2026-10-28 09:26",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:26",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14f53e4b09a165c791f21.html"
-      },
-      {
-        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
-        "time": "2026-10-26 11:33",
-        "source": "中国日报财经",
-        "summary": "10月26日，第九届进博会首批展品进馆仪式在国家会展中心（上海）举行，来自奥地利、美国、德国等国的12件展品开始入馆，标志着本届进博会展馆搭建和布展工作进入最后冲刺阶段2026-10-2611:33",
-        "url": "//caijing.chinadaily.com.cn/a/202610/26/WS6adeefcce4b09a165c791807.html"
-      },
-      {
-        "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
-        "time": "2026-10-26 14:06",
-        "source": "中国日报财经",
-        "summary": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？2026-10-2614:06",
-        "url": "//caijing.chinadaily.com.cn/a/202610/26/WS6adeeeb9e4b09a165c7917fa.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "新国标如何给车灯安全使用“划红线”？",
-        "time": "2026-10-28 00:00",
-        "source": "中华社会",
-        "summary": "新国标如何给车灯安全使用“划红线”？",
-        "url": "https://news.china.com/social/1007/20261028/49822836.html"
-      },
-      {
-        "title": "新疆沙漠产业结出“累累硕果”",
-        "time": "2026-10-28 00:00",
-        "source": "中华社会",
-        "summary": "新疆沙漠产业结出“累累硕果”",
-        "url": "https://news.china.com/social/1007/20261028/49822867.html"
-      },
-      {
-        "title": "这些广交会新品为何能拿下海外订单？",
-        "time": "2026-10-28 00:00",
-        "source": "中华社会",
-        "summary": "这些广交会新品为何能拿下海外订单？",
-        "url": "https://news.china.com/social/1007/20261028/49822889.html"
-      },
-      {
-        "title": "34年广交会之约：从“制造”走向“创造”",
-        "time": "2026-10-28 00:00",
-        "source": "中华社会",
-        "summary": "34年广交会之约：从“制造”走向“创造”",
-        "url": "https://news.china.com/social/1007/20261028/49822909.html"
-      },
-      {
-        "title": "中国积极践行扩大开放共同做大国际贸易“蛋糕”",
-        "time": "2026-10-28 00:00",
-        "source": "中华社会",
-        "summary": "中国积极践行扩大开放共同做大国际贸易“蛋糕”",
-        "url": "https://news.china.com/social/1007/20261028/49822928.html"
       }
     ]
   }
