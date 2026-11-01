@@ -1,4 +1,226 @@
 {
+  "2026-11-01": {
+    "宏观政策风向": [
+      {
+        "title": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "url": "https://news.china.com/domestic/945/20261101/49830799.html"
+      },
+      {
+        "title": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "url": "https://news.china.com/domestic/945/20261101/49830816.html"
+      },
+      {
+        "title": "今年前三季度 我国钢铁品种不断调整优化",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "今年前三季度 我国钢铁品种不断调整优化",
+        "url": "https://news.china.com/domestic/945/20261101/49830828.html"
+      },
+      {
+        "title": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "url": "https://news.china.com/domestic/945/20261101/49830840.html"
+      },
+      {
+        "title": "对问题一盯到底 明查暗访这样深挖彻查安全隐患",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "对问题一盯到底 明查暗访这样深挖彻查安全隐患",
+        "url": "https://news.china.com/domestic/945/20261101/49830853.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "苦等两年！国行苹果AI下周开测，12月推出",
+        "time": "2026-10-31 09:25",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝等了两年多，国行iPhone终于要用上苹果AI了。10月31日，苹果宣布，中国区Apple智能将于11月4日起随最新iOS开发者测试版开放测试，并于12月随iOS27.3正式推出。阿里巴巴的...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAIDBJR200097U7T.html"
+      },
+      {
+        "title": "DeepSeek被曝融资1055亿元，美团、小红书等参投",
+        "time": "2026-10-30 11:15",
+        "source": "网易IT",
+        "summary": "10月30日消息，据TheInformation援引两名直接了解情况的人士报道，DeepSeek第二轮融资规模达到1055亿元人民币，近30个投资方参与其中。报道给出的公司估值为6155亿元，未注明投前或投后口径。除了继续加码的腾讯、宁德...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAG1886P00097U7T.html"
+      },
+      {
+        "title": "XHEART正式发布大模型芯片X7 Ultra，大模型算力",
+        "time": "2026-10-29 15:53",
+        "source": "网易IT",
+        "summary": "10月29日消息，XHEART新芯航途今日正式发布大模型芯片X7Ultra，大模型算力达到700TOPS。XHEART新芯航途CEO李宗霖表示，该芯片以“大模型定义芯片”为核心理念，从真实量产模型需求出发设计芯片架构。据其介绍，X7U...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LADUOOVV00097U7T.html"
+      },
+      {
+        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
+        "time": "2026-10-22 14:49",
+        "source": "网易IT",
+        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
+      },
+      {
+        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
+        "time": "2026-10-22 08:56",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
+      },
+      {
+        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
+        "time": "2026-10-21 11:50",
+        "source": "网易IT",
+        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "杨澜回应直播带货被调侃：曾为保障公司运转和员",
+        "time": "2026-10-31 14:22",
+        "source": "网易互联网",
+        "summary": "杨澜回应直播带货被调侃：曾为保障公司运转和员",
+        "url": "https://www.163.com/dy/article/LAIUB2FN051492LM.html"
+      },
+      {
+        "title": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "url": "https://news.china.com/domestic/945/20261101/49830799.html"
+      },
+      {
+        "title": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "url": "https://news.china.com/domestic/945/20261101/49830816.html"
+      },
+      {
+        "title": "今年前三季度 我国钢铁品种不断调整优化",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "今年前三季度 我国钢铁品种不断调整优化",
+        "url": "https://news.china.com/domestic/945/20261101/49830828.html"
+      },
+      {
+        "title": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "url": "https://news.china.com/domestic/945/20261101/49830840.html"
+      },
+      {
+        "title": "对问题一盯到底 明查暗访这样深挖彻查安全隐患",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "对问题一盯到底 明查暗访这样深挖彻查安全隐患",
+        "url": "https://news.china.com/domestic/945/20261101/49830853.html"
+      },
+      {
+        "title": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "串起城乡 连通世界 我国全域物流网如何织就？",
+        "url": "https://news.china.com/domestic/945/20261031/49829907.html"
+      },
+      {
+        "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "time": "2026-10-31 00:00",
+        "source": "中华国内",
+        "summary": "蓝海、绿能齐发力 多领域见证中国经济活力",
+        "url": "https://news.china.com/domestic/945/20261031/49829923.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+        "time": "2026-10-30 08:46",
+        "source": "中国日报财经",
+        "summary": "2026-10-3008:46",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ecaae4b09a165c79274c.html"
+      },
+      {
+        "title": "海南自贸港跨境贸易投资便利化水平持续提升",
+        "time": "2026-10-30 09:05",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:05",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ed5ce4b09a165c792750.html"
+      },
+      {
+        "title": "欧洲央行维持三大关键利率不变",
+        "time": "2026-10-30 09:06",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:06",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ef0be4b09a165c792755.html"
+      },
+      {
+        "title": "11月起，这些新规将影响你我生活",
+        "time": "2026-10-30 09:13",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:13",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3efb1e4b09a165c792757.html"
+      },
+      {
+        "title": "8000亿元新型政策性金融工具投放完成",
+        "time": "2026-10-29 10:32",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:32",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b08fe4b09a165c792380.html"
+      },
+      {
+        "title": "219家北交所公司三季报亮相 逾七成实现营收同比增长",
+        "time": "2026-10-29 10:33",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:33",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b093e4b09a165c792381.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "未成年人别再拿年龄当 “免罚护身符”",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "未成年人别再拿年龄当 “免罚护身符”",
+        "url": "https://news.china.com/social/1007/20261101/49830866.html"
+      },
+      {
+        "title": "方寸板房，装满爱与童真",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "方寸板房，装满爱与童真",
+        "url": "https://news.china.com/social/1007/20261101/49830877.html"
+      },
+      {
+        "title": "冷空气接力来袭 东北多地迎立秋后最冷一天",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "冷空气接力来袭 东北多地迎立秋后最冷一天",
+        "url": "https://news.china.com/social/1007/20261101/49830889.html"
+      },
+      {
+        "title": "“智慧大脑”赋能物流枢纽 邮路跑出加速度",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "“智慧大脑”赋能物流枢纽 邮路跑出加速度",
+        "url": "https://news.china.com/social/1007/20261101/49830899.html"
+      },
+      {
+        "title": "新突破！这项技术让月球烧砖盖房更近一步",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "新突破！这项技术让月球烧砖盖房更近一步",
+        "url": "https://news.china.com/social/1007/20261101/49830910.html"
+      }
+    ]
+  },
   "2026-10-31": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "纪录片《马斯克》北美票房惨淡 四小时片长吓退观众",
         "url": "https://news.china.com/socialgd/10000169/20261029/49826900.html"
-      }
-    ]
-  },
-  "2026-10-29": {
-    "宏观政策风向": [
-      {
-        "title": "安徽马鞍山：石臼湖迎来今秋首批迁徙候鸟",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "安徽马鞍山：石臼湖迎来今秋首批迁徙候鸟",
-        "url": "https://news.china.com/domestic/945/20261029/49825261.html"
-      },
-      {
-        "title": "河南洛阳：施工中的黄河公铁大桥",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "河南洛阳：施工中的黄河公铁大桥",
-        "url": "https://news.china.com/domestic/945/20261029/49825280.html"
-      },
-      {
-        "title": "新型农机不断上新 产品方向正被改写",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "新型农机不断上新 产品方向正被改写",
-        "url": "https://news.china.com/domestic/945/20261029/49824980.html"
-      },
-      {
-        "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
-        "url": "https://news.china.com/domestic/945/20261029/49825076.html"
-      },
-      {
-        "title": "从能用到好用，国产芯片筑牢算力网底座",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "从能用到好用，国产芯片筑牢算力网底座",
-        "url": "https://news.china.com/domestic/945/20261029/49825098.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
-        "time": "2026-10-22 14:49",
-        "source": "网易IT",
-        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
-      },
-      {
-        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
-        "time": "2026-10-22 08:56",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
-      },
-      {
-        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
-        "time": "2026-10-21 11:50",
-        "source": "网易IT",
-        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
-      },
-      {
-        "title": "AMD砸67亿入股Meta！首批Helios系统已安装测试",
-        "time": "2026-10-28 22:27",
-        "source": "网易科技",
-        "summary": "AMD砸67亿入股Meta！首批Helios系统已安装测试",
-        "url": "https://www.163.com/dy/article/LAC2T14C051180F7.html"
-      },
-      {
-        "title": "南极光取得AR用高散热微型背光模组专利，散热效",
-        "time": "2026-10-28 18:44",
-        "source": "网易科技",
-        "summary": "南极光取得AR用高散热微型背光模组专利，散热效",
-        "url": "https://www.163.com/dy/article/LABM5HHC0519QIKK.html"
-      },
-      {
-        "title": "灵动畅想申请VR漫画互动生成系统及方法专利，使",
-        "time": "2026-10-28 17:12",
-        "source": "网易科技",
-        "summary": "灵动畅想申请VR漫画互动生成系统及方法专利，使",
-        "url": "https://www.163.com/dy/article/LABGSOQU0519QIKK.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "安徽马鞍山：石臼湖迎来今秋首批迁徙候鸟",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "安徽马鞍山：石臼湖迎来今秋首批迁徙候鸟",
-        "url": "https://news.china.com/domestic/945/20261029/49825261.html"
-      },
-      {
-        "title": "河南洛阳：施工中的黄河公铁大桥",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "河南洛阳：施工中的黄河公铁大桥",
-        "url": "https://news.china.com/domestic/945/20261029/49825280.html"
-      },
-      {
-        "title": "新型农机不断上新 产品方向正被改写",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "新型农机不断上新 产品方向正被改写",
-        "url": "https://news.china.com/domestic/945/20261029/49824980.html"
-      },
-      {
-        "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
-        "url": "https://news.china.com/domestic/945/20261029/49825076.html"
-      },
-      {
-        "title": "从能用到好用，国产芯片筑牢算力网底座",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "从能用到好用，国产芯片筑牢算力网底座",
-        "url": "https://news.china.com/domestic/945/20261029/49825098.html"
-      },
-      {
-        "title": "中方敦促国际法院确保国际法平等统一适用",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "中方敦促国际法院确保国际法平等统一适用",
-        "url": "https://news.china.com/domestic/945/20261029/49825117.html"
-      },
-      {
-        "title": "我国发现三颗“本不该存在”的行星",
-        "time": "2026-10-29 00:00",
-        "source": "中华国内",
-        "summary": "我国发现三颗“本不该存在”的行星",
-        "url": "https://news.china.com/domestic/945/20261029/49825137.html"
-      },
-      {
-        "title": "今年前三季度中部地区进出口3.43万亿元",
-        "time": "2026-10-28 00:00",
-        "source": "中华国内",
-        "summary": "今年前三季度中部地区进出口3.43万亿元",
-        "url": "https://news.china.com/domestic/945/20261028/49822665.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "史上最大IPO募资加码AI 北美科技巨头“狂飙”资本开支",
-        "time": "2026-10-28 09:16",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:16",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14d2de4b09a165c791f09.html"
-      },
-      {
-        "title": "公募基金三季报披露完毕 债券基金规模创历史新高",
-        "time": "2026-10-28 09:19",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:19",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14dece4b09a165c791f0b.html"
-      },
-      {
-        "title": "迎战“双11”快递高峰 AI加速渗透物流业",
-        "time": "2026-10-28 09:25",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:25",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14f16e4b09a165c791f1d.html"
-      },
-      {
-        "title": "多省推出“十五五”就业规划 力促产业就业双向奔赴",
-        "time": "2026-10-28 09:26",
-        "source": "中国日报财经",
-        "summary": "2026-10-2809:26",
-        "url": "//caijing.chinadaily.com.cn/a/202610/28/WS6ae14f53e4b09a165c791f21.html"
-      },
-      {
-        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
-        "time": "2026-10-26 11:33",
-        "source": "中国日报财经",
-        "summary": "10月26日，第九届进博会首批展品进馆仪式在国家会展中心（上海）举行，来自奥地利、美国、德国等国的12件展品开始入馆，标志着本届进博会展馆搭建和布展工作进入最后冲刺阶段2026-10-2611:33",
-        "url": "//caijing.chinadaily.com.cn/a/202610/26/WS6adeefcce4b09a165c791807.html"
-      },
-      {
-        "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
-        "time": "2026-10-26 14:06",
-        "source": "中国日报财经",
-        "summary": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？2026-10-2614:06",
-        "url": "//caijing.chinadaily.com.cn/a/202610/26/WS6adeeeb9e4b09a165c7917fa.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "伊朗再批美方外交承诺的空洞本质 美对外交蔑视暴露无遗",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "伊朗再批美方外交承诺的空洞本质 美对外交蔑视暴露无遗",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49825228.html"
-      },
-      {
-        "title": "特大暴雪！暴雨！新一轮冷空气将登场",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "特大暴雪！暴雨！新一轮冷空气将登场",
-        "url": "https://news.china.com/social/1007/20261029/49825049.html"
-      },
-      {
-        "title": "历史见证田头“割麦证”：“割麦证”驳斥“红军过境抢粮”",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "历史见证田头“割麦证”：“割麦证”驳斥“红军过境抢粮”",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49824968.html"
-      },
-      {
-        "title": "6G有这些&quot;新技能&quot; 算得快 看得见 连得远",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "6G有这些&quot;新技能&quot; 算得快 看得见 连得远",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49824969.html"
-      },
-      {
-        "title": "人民日报:这部日剧公然挑战人类良知 颠倒黑白剧情引发愤慨",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "人民日报:这部日剧公然挑战人类良知 颠倒黑白剧情引发愤慨",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49824970.html"
       }
     ]
   }
