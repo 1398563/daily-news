@@ -1,4 +1,226 @@
 {
+  "2026-11-02": {
+    "宏观政策风向": [
+      {
+        "title": "进博“全勤生”深耕中国 链接全球创新",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "进博“全勤生”深耕中国 链接全球创新",
+        "url": "https://news.china.com/domestic/945/20261102/49832210.html"
+      },
+      {
+        "title": "从展馆直达生产车间 广交会外贸商机持续释放",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "从展馆直达生产车间 广交会外贸商机持续释放",
+        "url": "https://news.china.com/domestic/945/20261102/49832298.html"
+      },
+      {
+        "title": "证监会开罚单！4名高管，被罚2800万元",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "证监会开罚单！4名高管，被罚2800万元",
+        "url": "https://news.china.com/domestic/945/20261102/49832317.html"
+      },
+      {
+        "title": "超1.2万家企业参展 广交会第三期AI赋能轻工出海",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "超1.2万家企业参展 广交会第三期AI赋能轻工出海",
+        "url": "https://news.china.com/domestic/945/20261102/49832337.html"
+      },
+      {
+        "title": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "url": "https://news.china.com/domestic/945/20261101/49830799.html"
+      }
+    ],
+    "产业科技趋势": [
+      {
+        "title": "苦等两年！国行苹果AI下周开测，12月推出",
+        "time": "2026-10-31 09:25",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小扣编辑|王凤枝等了两年多，国行iPhone终于要用上苹果AI了。10月31日，苹果宣布，中国区Apple智能将于11月4日起随最新iOS开发者测试版开放测试，并于12月随iOS27.3正式推出。阿里巴巴的...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAIDBJR200097U7T.html"
+      },
+      {
+        "title": "DeepSeek被曝融资1055亿元，美团、小红书等参投",
+        "time": "2026-10-30 11:15",
+        "source": "网易IT",
+        "summary": "10月30日消息，据TheInformation援引两名直接了解情况的人士报道，DeepSeek第二轮融资规模达到1055亿元人民币，近30个投资方参与其中。报道给出的公司估值为6155亿元，未注明投前或投后口径。除了继续加码的腾讯、宁德...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LAG1886P00097U7T.html"
+      },
+      {
+        "title": "XHEART正式发布大模型芯片X7 Ultra，大模型算力",
+        "time": "2026-10-29 15:53",
+        "source": "网易IT",
+        "summary": "10月29日消息，XHEART新芯航途今日正式发布大模型芯片X7Ultra，大模型算力达到700TOPS。XHEART新芯航途CEO李宗霖表示，该芯片以“大模型定义芯片”为核心理念，从真实量产模型需求出发设计芯片架构。据其介绍，X7U...[阅读更多]",
+        "url": "https://www.163.com/tech/article/LADUOOVV00097U7T.html"
+      },
+      {
+        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
+        "time": "2026-10-22 14:49",
+        "source": "网易IT",
+        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
+      },
+      {
+        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
+        "time": "2026-10-22 08:56",
+        "source": "网易IT",
+        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
+      },
+      {
+        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
+        "time": "2026-10-21 11:50",
+        "source": "网易IT",
+        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
+        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
+      }
+    ],
+    "商业创业机会": [
+      {
+        "title": "进博“全勤生”深耕中国 链接全球创新",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "进博“全勤生”深耕中国 链接全球创新",
+        "url": "https://news.china.com/domestic/945/20261102/49832210.html"
+      },
+      {
+        "title": "从展馆直达生产车间 广交会外贸商机持续释放",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "从展馆直达生产车间 广交会外贸商机持续释放",
+        "url": "https://news.china.com/domestic/945/20261102/49832298.html"
+      },
+      {
+        "title": "证监会开罚单！4名高管，被罚2800万元",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "证监会开罚单！4名高管，被罚2800万元",
+        "url": "https://news.china.com/domestic/945/20261102/49832317.html"
+      },
+      {
+        "title": "超1.2万家企业参展 广交会第三期AI赋能轻工出海",
+        "time": "2026-11-02 00:00",
+        "source": "中华国内",
+        "summary": "超1.2万家企业参展 广交会第三期AI赋能轻工出海",
+        "url": "https://news.china.com/domestic/945/20261102/49832337.html"
+      },
+      {
+        "title": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "url": "https://news.china.com/domestic/945/20261101/49830799.html"
+      },
+      {
+        "title": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "打破垄断！长春光电产业规模瞄准1600亿元",
+        "url": "https://news.china.com/domestic/945/20261101/49830816.html"
+      },
+      {
+        "title": "今年前三季度 我国钢铁品种不断调整优化",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "今年前三季度 我国钢铁品种不断调整优化",
+        "url": "https://news.china.com/domestic/945/20261101/49830828.html"
+      },
+      {
+        "title": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "time": "2026-11-01 00:00",
+        "source": "中华国内",
+        "summary": "旅荷大熊猫“朗月”抵达雅安基地 开启隔离检疫",
+        "url": "https://news.china.com/domestic/945/20261101/49830840.html"
+      }
+    ],
+    "投资理财参考": [
+      {
+        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+        "time": "2026-10-30 08:46",
+        "source": "中国日报财经",
+        "summary": "2026-10-3008:46",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ecaae4b09a165c79274c.html"
+      },
+      {
+        "title": "海南自贸港跨境贸易投资便利化水平持续提升",
+        "time": "2026-10-30 09:05",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:05",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ed5ce4b09a165c792750.html"
+      },
+      {
+        "title": "欧洲央行维持三大关键利率不变",
+        "time": "2026-10-30 09:06",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:06",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ef0be4b09a165c792755.html"
+      },
+      {
+        "title": "11月起，这些新规将影响你我生活",
+        "time": "2026-10-30 09:13",
+        "source": "中国日报财经",
+        "summary": "2026-10-3009:13",
+        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3efb1e4b09a165c792757.html"
+      },
+      {
+        "title": "8000亿元新型政策性金融工具投放完成",
+        "time": "2026-10-29 10:32",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:32",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b08fe4b09a165c792380.html"
+      },
+      {
+        "title": "219家北交所公司三季报亮相 逾七成实现营收同比增长",
+        "time": "2026-10-29 10:33",
+        "source": "中国日报财经",
+        "summary": "2026-10-2910:33",
+        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b093e4b09a165c792381.html"
+      }
+    ],
+    "社会民生变化": [
+      {
+        "title": "巴青震区589名师生赴拉萨异地复课",
+        "time": "2026-11-02 00:00",
+        "source": "中华社会",
+        "summary": "巴青震区589名师生赴拉萨异地复课",
+        "url": "https://news.china.com/social/1007/20261102/49832260.html"
+      },
+      {
+        "title": "西藏巴青震区首批589名师生今赴拉萨异地复课",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "西藏巴青震区首批589名师生今赴拉萨异地复课",
+        "url": "https://news.china.com/social/1007/20261101/49831557.html"
+      },
+      {
+        "title": "女性在这两个年龄可能会“断崖式”衰老！做好预防",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "女性在这两个年龄可能会“断崖式”衰老！做好预防",
+        "url": "https://news.china.com/social/1007/20261101/49831568.html"
+      },
+      {
+        "title": "北京今天晴朗回归阵风6至7级 未来三天昼夜温差大",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "北京今天晴朗回归阵风6至7级 未来三天昼夜温差大",
+        "url": "https://news.china.com/social/1007/20261101/49831578.html"
+      },
+      {
+        "title": "“抓虫大赛”一上午抓近千枚 防治美国白蛾有新招",
+        "time": "2026-11-01 00:00",
+        "source": "中华社会",
+        "summary": "“抓虫大赛”一上午抓近千枚 防治美国白蛾有新招",
+        "url": "https://news.china.com/social/1007/20261101/49831589.html"
+      }
+    ]
+  },
   "2026-11-01": {
     "宏观政策风向": [
       {
@@ -440,228 +662,6 @@
         "source": "中华社会",
         "summary": "超1.5亿海外用户在看！中国爆款AI漫剧“刷屏”",
         "url": "https://news.china.com/social/1007/20261031/49829882.html"
-      }
-    ]
-  },
-  "2026-10-30": {
-    "宏观政策风向": [
-      {
-        "title": "11月起，这些新规将影响你我生活",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "11月起，这些新规将影响你我生活",
-        "url": "https://news.china.com/domestic/945/20261030/49827421.html"
-      },
-      {
-        "title": "“中国蓝色海湾整治行动”获评意义几何",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "“中国蓝色海湾整治行动”获评意义几何",
-        "url": "https://news.china.com/domestic/945/20261030/49827489.html"
-      },
-      {
-        "title": "我国深海装备加快创新突破",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "我国深海装备加快创新突破",
-        "url": "https://news.china.com/domestic/945/20261030/49827506.html"
-      },
-      {
-        "title": "以英雄为名！“文秀”“娇龙”月季上市",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "以英雄为名！“文秀”“娇龙”月季上市",
-        "url": "https://news.china.com/domestic/945/20261030/49827538.html"
-      },
-      {
-        "title": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
-        "url": "https://news.china.com/domestic/945/20261030/49827593.html"
-      }
-    ],
-    "产业科技趋势": [
-      {
-        "title": "XHEART正式发布大模型芯片X7 Ultra，大模型算力",
-        "time": "2026-10-29 15:53",
-        "source": "网易IT",
-        "summary": "10月29日消息，XHEART新芯航途今日正式发布大模型芯片X7Ultra，大模型算力达到700TOPS。XHEART新芯航途CEO李宗霖表示，该芯片以“大模型定义芯片”为核心理念，从真实量产模型需求出发设计芯片架构。据其介绍，X7U...[阅读更多]",
-        "url": "https://www.163.com/tech/article/LADUOOVV00097U7T.html"
-      },
-      {
-        "title": "千亿元，接近收官！DeepSeek被曝再融资，腾讯、",
-        "time": "2026-10-22 14:49",
-        "source": "网易IT",
-        "summary": "10月22日消息，据路透社援引两名知情人士报道，DeepSeek新一轮融资已进入收尾阶段，募资规模约1000亿元人民币（折合约150亿美元），预计将在未来几天完成。最终金额等财务细节仍可能调整。这轮融资的目标至少上调了两次。据彭博社同日报道...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9RQA6LD00097U7T.html"
-      },
-      {
-        "title": "腾讯云、谷歌紧急行动！全球互联网安全出了大事",
-        "time": "2026-10-22 08:56",
-        "source": "网易IT",
-        "summary": "出品|网易智能作者|小小编辑|王凤枝腾讯云发出风险通告，谷歌催促客户立刻更新，OpenAI协调多方紧急修补。10月21日，PHP项目发布安全更新，修复两项严重漏洞。这套广泛用于网上商店、论坛、媒体和政府网站的软件，出现了可...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9R64D1K00097U7T.html"
-      },
-      {
-        "title": "Claude设计蛋白质，OpenAI买公司：AI巨头加码新",
-        "time": "2026-10-21 11:50",
-        "source": "网易IT",
-        "summary": "10月21日消息，Anthropic周二公布了一项针对蝎毒的新研究：由Claude参与设计的蛋白质，经过实验室测试，已有部分能成功贴合目标毒素。同一天，OpenAI宣布收购生物医药研发项目管理公司OrchestraBio。一家让大模型设计...[阅读更多]",
-        "url": "https://www.163.com/tech/article/L9OTM3LV00097U7T.html"
-      },
-      {
-        "title": "卖8500元一副的XR眼镜，凭什么？",
-        "time": "2026-10-29 19:08",
-        "source": "网易科技",
-        "summary": "卖8500元一副的XR眼镜，凭什么？",
-        "url": "https://www.163.com/dy/article/LAE9RVO2051180F7.html"
-      },
-      {
-        "title": "九城数字科技申请基于自适应KNN定位与热成像的A",
-        "time": "2026-10-29 18:08",
-        "source": "网易科技",
-        "summary": "九城数字科技申请基于自适应KNN定位与热成像的A",
-        "url": "https://www.163.com/dy/article/LAE6GHJ10519QIKK.html"
-      }
-    ],
-    "商业创业机会": [
-      {
-        "title": "11月起，这些新规将影响你我生活",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "11月起，这些新规将影响你我生活",
-        "url": "https://news.china.com/domestic/945/20261030/49827421.html"
-      },
-      {
-        "title": "“中国蓝色海湾整治行动”获评意义几何",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "“中国蓝色海湾整治行动”获评意义几何",
-        "url": "https://news.china.com/domestic/945/20261030/49827489.html"
-      },
-      {
-        "title": "我国深海装备加快创新突破",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "我国深海装备加快创新突破",
-        "url": "https://news.china.com/domestic/945/20261030/49827506.html"
-      },
-      {
-        "title": "以英雄为名！“文秀”“娇龙”月季上市",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "以英雄为名！“文秀”“娇龙”月季上市",
-        "url": "https://news.china.com/domestic/945/20261030/49827538.html"
-      },
-      {
-        "title": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "徒手搜救、路口坚守 他们守住震区物资唯一通道",
-        "url": "https://news.china.com/domestic/945/20261030/49827593.html"
-      },
-      {
-        "title": "今年前三季度新疆外送电量超1300亿千瓦时",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "今年前三季度新疆外送电量超1300亿千瓦时",
-        "url": "https://news.china.com/domestic/945/20261030/49827620.html"
-      },
-      {
-        "title": "兰海高速湛江段开工建设 预计2030年建成通车",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "兰海高速湛江段开工建设 预计2030年建成通车",
-        "url": "https://news.china.com/domestic/945/20261030/49827637.html"
-      },
-      {
-        "title": "沙海染金！环塔克拉玛干胡杨绘就秋日壮丽画卷",
-        "time": "2026-10-30 00:00",
-        "source": "中华国内",
-        "summary": "沙海染金！环塔克拉玛干胡杨绘就秋日壮丽画卷",
-        "url": "https://news.china.com/domestic/945/20261030/49827662.html"
-      }
-    ],
-    "投资理财参考": [
-      {
-        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
-        "time": "2026-10-30 08:46",
-        "source": "中国日报财经",
-        "summary": "2026-10-3008:46",
-        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ecaae4b09a165c79274c.html"
-      },
-      {
-        "title": "海南自贸港跨境贸易投资便利化水平持续提升",
-        "time": "2026-10-30 09:05",
-        "source": "中国日报财经",
-        "summary": "2026-10-3009:05",
-        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ed5ce4b09a165c792750.html"
-      },
-      {
-        "title": "欧洲央行维持三大关键利率不变",
-        "time": "2026-10-30 09:06",
-        "source": "中国日报财经",
-        "summary": "2026-10-3009:06",
-        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3ef0be4b09a165c792755.html"
-      },
-      {
-        "title": "11月起，这些新规将影响你我生活",
-        "time": "2026-10-30 09:13",
-        "source": "中国日报财经",
-        "summary": "2026-10-3009:13",
-        "url": "//caijing.chinadaily.com.cn/a/202610/30/WS6ae3efb1e4b09a165c792757.html"
-      },
-      {
-        "title": "8000亿元新型政策性金融工具投放完成",
-        "time": "2026-10-29 10:32",
-        "source": "中国日报财经",
-        "summary": "2026-10-2910:32",
-        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b08fe4b09a165c792380.html"
-      },
-      {
-        "title": "219家北交所公司三季报亮相 逾七成实现营收同比增长",
-        "time": "2026-10-29 10:33",
-        "source": "中国日报财经",
-        "summary": "2026-10-2910:33",
-        "url": "//caijing.chinadaily.com.cn/a/202610/29/WS6ae2b093e4b09a165c792381.html"
-      }
-    ],
-    "社会民生变化": [
-      {
-        "title": "中国U17女足首进世界杯8强 点球大战创历史",
-        "time": "2026-10-30 00:00",
-        "source": "中华社会",
-        "summary": "中国U17女足首进世界杯8强 点球大战创历史",
-        "url": "https://news.china.com/socialgd/10000169/20261030/49827743.html"
-      },
-      {
-        "title": "大一女生隔空喊话父母天冷要加衣 监控里的温暖回应",
-        "time": "2026-10-30 00:00",
-        "source": "中华社会",
-        "summary": "大一女生隔空喊话父母天冷要加衣 监控里的温暖回应",
-        "url": "https://news.china.com/socialgd/10000169/20261030/49827744.html"
-      },
-      {
-        "title": "A股为何又下跌了 科技股重挫引发调整",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "A股为何又下跌了 科技股重挫引发调整",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49827208.html"
-      },
-      {
-        "title": "华大基因、华大智造等三家公司被美列入实体清单，商务部和公司回应来了 坚决反对无理指控",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "华大基因、华大智造等三家公司被美列入实体清单，商务部和公司回应来了 坚决反对无理指控",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49827094.html"
-      },
-      {
-        "title": "纪录片《马斯克》北美票房惨淡 四小时片长吓退观众",
-        "time": "2026-10-29 00:00",
-        "source": "中华社会",
-        "summary": "纪录片《马斯克》北美票房惨淡 四小时片长吓退观众",
-        "url": "https://news.china.com/socialgd/10000169/20261029/49826900.html"
       }
     ]
   }
